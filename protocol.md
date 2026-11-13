@@ -1,6 +1,8 @@
 # Research method and changes
 
-This indexes the inherited method. It is not retrospective registration or a replacement protocol. Preserve the exact question in README.md.
+The operative methods are now [publicly available](methods/README.md), including unchanged method0.4.6, addenda, rule-only packet, codebook0.2 and the dictionary. This index preserves earlier recovery pointers and chronology; it is not retrospective registration or a replacement protocol. Preserve the exact question in README.md.
+
+Read [search provenance and gaps](methods/search-provenance.md), [the dated measurement draft](methods/measurement-framework.md), [one existing source trace](examples/README.md) and [the human verification procedure](docs/human-verification.md). The draft proposes reviewable definitions; no deeper extraction or new scientific labels were performed during remediation.
 
 ## Scope and units
 

@@ -1,0 +1,46 @@
+name: Public record checks
+
+on:
+  push:
+    branches: [main, "remediation/**"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Record checks (${{ matrix.os }})
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+      - name: Run regression tests
+        run: python -X utf8 -m unittest discover -s tests -v
+      - name: Run regression tests with optimization
+        run: python -O -X utf8 -m unittest discover -s tests -v
+      - name: Check public history and provenance
+        run: python -X utf8 scripts/verify_public_tree.py
+      - name: Check public history with optimization
+        run: python -O -X utf8 scripts/verify_public_tree.py
+
+  gate:
+    name: Public record validation
+    if: always()
+    needs: check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require all platforms
+        env:
+          CHECK_RESULT: ${{ needs.check.result }}
+        run: test "$CHECK_RESULT" = success

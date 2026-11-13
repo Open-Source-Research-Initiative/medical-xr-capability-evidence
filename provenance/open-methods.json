@@ -1,0 +1,98 @@
+{
+  "format": "medical-xr-open-methods/1",
+  "exported_on": "2026-11-13",
+  "mode": "byte-identical copies; historical text and chronology retained",
+  "files": [
+    {
+      "public_path": "methods/inherited/locked-question.md",
+      "original_path": "10 - Locked question and capability analysis.md",
+      "bytes": 5027,
+      "sha256": "02e86c312137ee4264a2f42dae4cefbedf8158a670203c1be09d86322968d7e3",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/method-v0.4.6.md",
+      "original_path": "outputs/Medical-XR-Calibration-and-Full-Screening/shared/method-v0.4.6.md",
+      "bytes": 17871,
+      "sha256": "064732c11a4637ebfa384b422acfebf886af1afbb0c08acf04e62cad9bad2fbf",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/current-method-guide.md",
+      "original_path": "outputs/Medical-XR-Calibration-and-Full-Screening/shared/current-method-guide.md",
+      "bytes": 3460,
+      "sha256": "f024d9a46dc4d764d1bdcf1a84ff47962314e486f54ed9a0e6ed1294e9930d5a",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/codebook-v0.2.md",
+      "original_path": "outputs/Medical-XR-Capability-Assessment-Pilot/reconciled-codebook-v0.2.md",
+      "bytes": 10961,
+      "sha256": "cc1da4645fe6e66f05b40fb2cca2d3e1bcfeb503d414fd40501fedcb453183b1",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/data-dictionary.md",
+      "original_path": "outputs/Medical-XR-Calibration-and-Full-Screening/resume-20261112/DATA-DICTIONARY.md",
+      "bytes": 9966,
+      "sha256": "e53502d38d2888ab3191feed69a933a0dad1c0fc7a67353fb04c6258142e0610",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/initial-screener-rules.md",
+      "original_path": "outputs/Medical-XR-Calibration-and-Full-Screening/resume-20261112/INITIAL-SCREENER-RULES.md",
+      "bytes": 12931,
+      "sha256": "f2000c8b8f81a486ea61cec6f5fe729c34c4bfe7c1de131bc1aa3f2c9cc3d0bd",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/yeung-original-query.txt",
+      "original_path": "03 - Yeung 2021 Original Search Query.txt",
+      "bytes": 585,
+      "sha256": "9e6143767c864f30a287c60cb2881f70160947ed7d1a75344f7458fcc3a4b8b3",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/yeung-original-criteria.md",
+      "original_path": "02 - Yeung 2021 Original Bibliometric Criteria.md",
+      "bytes": 9288,
+      "sha256": "46cbe943db72cb432787f916c35b4fd410702e9d22cafb88463d9b8b30b728a9",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/scope-correction-20261111.md",
+      "original_path": "09 - Scope and methodology correction.md",
+      "bytes": 10537,
+      "sha256": "3794df9c73abef3d1cbf0c45562e749356ede6febb95c7aa0b2b45ca4bd308ff",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/integrity-routing-addendum-v0.4.6-01.md",
+      "original_path": "outputs/Medical-XR-Calibration-and-Full-Screening/shared/integrity-routing-addendum-v0.4.6-01.md",
+      "bytes": 1611,
+      "sha256": "59ee115508f08d542fb7a89ad4697077f29f8bde1231a84f1f7e39fd4197b5d6",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/identity-candidate-addendum-v0.4.6-02.md",
+      "original_path": "outputs/Medical-XR-Calibration-and-Full-Screening/shared/identity-candidate-addendum-v0.4.6-02.md",
+      "bytes": 1669,
+      "sha256": "17788c305291a1570d2e3d95536fe047a6e51b21fdac02a1d99ddb0290c94232",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/missing-text-routing-addendum-v0.4.6-03.md",
+      "original_path": "outputs/Medical-XR-Calibration-and-Full-Screening/shared/missing-text-routing-addendum-v0.4.6-03.md",
+      "bytes": 1670,
+      "sha256": "e7be2205228e561a3c98b6c21c3441c99402928e2639d69b117ae53edc2b9e46",
+      "changes": "none"
+    },
+    {
+      "public_path": "methods/inherited/date-boundary-addendum-v0.4.6-04.md",
+      "original_path": "outputs/Medical-XR-Calibration-and-Full-Screening/shared/date-boundary-addendum-v0.4.6-04.md",
+      "bytes": 1492,
+      "sha256": "184abb7dbf7e1ab49c3bef54c371c21aa31dbbfd4dcd08e3c84e49663cbd6020",
+      "changes": "none"
+    }
+  ]
+}

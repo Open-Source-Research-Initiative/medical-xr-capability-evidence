@@ -1,0 +1,11 @@
+# Public methods and chronology
+
+This is an inherited, evolving capability evidence map. It is not retrospective registration. The locked question remains unchanged in [the original question document](inherited/locked-question.md).
+
+Read the [rule-only screening packet](inherited/initial-screener-rules.md) for the instructions given to the new independent reviewers. It omits other reviewers' judgments. The operative method is [0.4.6](inherited/method-v0.4.6.md), with chronological amendments and four addenda: [integrity](inherited/integrity-routing-addendum-v0.4.6-01.md), [identity](inherited/identity-candidate-addendum-v0.4.6-02.md), [missing text](inherited/missing-text-routing-addendum-v0.4.6-03.md), and [date boundary](inherited/date-boundary-addendum-v0.4.6-04.md). Later amendments supersede earlier passages; the method's original earlier-version heading is retained.
+
+The [codebook 0.2](inherited/codebook-v0.2.md) defines capabilities, linked extraction tables, evidence levels and null values. The [dictionary](inherited/data-dictionary.md) explains initial decisions, overlays and provenance fields. Screening advances records for later full-text assessment; it does not perform deeper extraction.
+
+All 13 inherited documents are byte-identical copies. [The copy manifest](../provenance/open-methods.json) records original paths and SHA-256 values. The older [scope correction](inherited/scope-correction-20261111.md), [original Yeung criteria](inherited/yeung-original-criteria.md) and [method guide](inherited/current-method-guide.md) retain historical counts and context. Those counts are not the current checkpoint; use [the saved pause record](../docs/checkpoint.md).
+
+Read [search provenance and gaps](search-provenance.md) before assessing completeness. The original search syntax is available, but later exports do not reconstruct an executed follow-up search. The [measurement framework](measurement-framework.md) makes proposed measures reviewable; it is a dated draft for human scientific review and was not used to relabel the inventory. The [worked example](../examples/README.md) traces one already-recorded AI route to a permissible source passage. [Human verification](../docs/human-verification.md) remains pending.

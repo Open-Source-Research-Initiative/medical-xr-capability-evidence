@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-13",
+  "human_lead": "Cole / @ajhcs",
+  "basis": "User review and explicit license/storage answers in project chat",
+  "reviewed_baseline_commit": "8c92a767d1170feb37f7fd3162bcf652cab55e35",
+  "authorized_licenses": {
+    "original_code": "MIT",
+    "original_prose": "CC-BY-4.0",
+    "exclusions": "Third-party evidence and existing notices remain separate"
+  },
+  "controlled_storage_preference": "GitHub; otherwise a suitable shared storage service",
+  "implementation": "Private OSRI companion for permitted project work and metadata derivatives; mixed-rights archive remains local pending terms review",
+  "scientific_screening_resume_authorized": false,
+  "human_scientific_verification": "PENDING",
+  "remediation_acceptance": "Pending human review of concrete revision; not inferred from license/storage approval",
+  "external_peer_review": "NOT_ESTABLISHED"
+}

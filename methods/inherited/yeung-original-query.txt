@@ -1,0 +1,10 @@
+Yeung et al. (2021), Journal of Medical Internet Research 23(2):e25499
+DOI: 10.2196/25499
+Source: original PDF, page 3
+Database: Web of Science Core Collection
+Original search date: September 16, 2020
+No additional restrictions, including publication type or language.
+No explicit starting-year filter reported; 1992–2020 is the observed result span.
+
+Published expression (straight quotation marks substituted):
+TOPIC: ("virtual reality*" OR "augmented reality*" OR "mixed reality*" OR "computer-mediated reality*") AND TOPIC: (medic* OR illness* OR disease* OR health* OR pharma*)
