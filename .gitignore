@@ -1,0 +1,10 @@
+legacy-workspace/
+restricted/
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.zip
+*.bundle
+local-access*

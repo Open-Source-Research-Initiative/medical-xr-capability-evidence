@@ -1,0 +1,98 @@
+{
+  "generated_at_utc": "2026-11-13T20:45:15.676757+00:00",
+  "inventory_n": 18976,
+  "pass_A_saved": 18976,
+  "pass_A_pending": 0,
+  "pass_B_saved": 18976,
+  "pass_B_pending": 0,
+  "both_initial_passes": 18976,
+  "at_least_one_initial_pass": 18976,
+  "neither_initial_pass": 0,
+  "initial_assessments_remaining": 0,
+  "new_validated_assessments": 32172,
+  "by_worker": {
+    "A1": 4008,
+    "A2": 4050,
+    "A3": 4000,
+    "A4": 4000,
+    "B1": 4014,
+    "B2": 4050,
+    "B3": 4050,
+    "B4": 4000
+  },
+  "human_verified": 0,
+  "human_pending": 18976,
+  "validation_errors": [],
+  "scope": "Initial AI assessments saved, not resolved eligibility, full-text assessment, independent-study totals or human verification",
+  "priority_status": {
+    "missing_partner": {
+      "validated": 2072
+    },
+    "both_missing": {
+      "validated": 30100
+    }
+  },
+  "adjudicated_n": 9226,
+  "adjudication_pending": 9750,
+  "adjudicated_eligibility_counts": {
+    "EXCLUDE": 3679,
+    "UNCERTAIN": 3689,
+    "INCLUDE": 1858
+  },
+  "required_audit_cases_in_paired_batches": 18475,
+  "required_audits_unperformed": 9464,
+  "required_audits_scope_verification_pending": 0,
+  "required_audit_source_status_counts": {
+    "AGREED_INCLUSION_BRIEF_CHECK": 23,
+    "SAMPLED_AGREED_EXCLUSION_CHECK": 25,
+    "DISAGREEMENT_OR_UNCERTAINTY_REVIEW": 19,
+    "SOURCE_ASSESSED_AVAILABLE_TEXT": 6871,
+    "MODALITY_DISAGREEMENT_SOURCE_REVIEW": 5,
+    "SOURCE_LIMITED_TITLE_ONLY_ACCESS_PENDING": 1127,
+    "SOURCE_LIMITED_UNCHANGED": 75,
+    "DISAGREEMENT_OR_UNCERTAINTY_SOURCE_REVIEW": 203,
+    "ALL_SOURCE_FIELDS_INDIVIDUALLY_REVIEWED": 50,
+    "ROOT_ROUTINE_SOURCE_REVIEW_WITH_ASTRA_RECONCILIATION": 483,
+    "ASTRA_EDGE_SOURCE_REVIEW": 130,
+    "UNPERFORMED": 9464
+  },
+  "independent_2020_date_obligations": 1648,
+  "date_status_counts": {
+    "SOURCE_DATE_VERIFIED": 31,
+    "SOURCE_CHECKED": 32,
+    "CHECKED_UNRESOLVED": 681,
+    "CHECKED_VERIFIED": 777,
+    "CHECKED_REPOSITORY_METADATA": 1,
+    "CHECKED": 14,
+    "PUBLISHER_CHECKED": 6,
+    "PUBMED_INDEXED": 4,
+    "CHECKED_INDEXED_PRIMARY": 58,
+    "CHECKED_INDEXED_PRIMARY_PDF": 1,
+    "CHECKED_SOURCE_LIMITED": 43
+  },
+  "legacy_retrospective_unperformed": 0,
+  "legacy_targeted_rechecks_pending": 0,
+  "self_detected_rechecks_pending": 418,
+  "pending_queue_counts": {
+    "source_text_retrieval": 3071,
+    "adjudicated_uncertainty": 3689,
+    "adjudication": 9750
+  },
+  "mandatory_operational_audits_pending": 5,
+  "additional_source_flag_date_obligations": 38,
+  "method_application_source_checked_unique": 142,
+  "method_application_followups_pending": 0,
+  "fresh_legacy_source_recheck_tasks": 868,
+  "fresh_legacy_source_recheck_obligations": 871,
+  "fresh_legacy_independent_date_tasks": 103,
+  "fresh_legacy_source_rechecks_saved": 868,
+  "fresh_legacy_source_rechecks_unperformed": 0,
+  "fresh_legacy_rechecks_sol_consideration_pending": 88,
+  "post_initial_source_notes_deferred_to_next_snapshot": 0,
+  "initial_explicit_integrity_flags_pass_ids": 34,
+  "initial_explicit_integrity_flags_publication_ids": 33,
+  "preserved_integrity_hold_routing_pending": 2,
+  "known_cross_agent_exposure_events": 1,
+  "cross_agent_exposures_pending_sol_source_consideration": 0,
+  "goal_complete": false
+}
