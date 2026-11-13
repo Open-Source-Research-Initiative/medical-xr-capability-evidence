@@ -2,7 +2,7 @@
 
 The supplied review of public revision `8c92a767d1170feb37f7fd3162bcf652cab55e35` assessed partial OSRI alignment. It disclosed no bounded-pattern matches in the 89 reachable blobs it checked. Codex independently reproduced the checker defects. Those defects establish a control failure, not a finding that restricted material leaked.
 
-The remediation PR contains the concrete proposed changes and reports automated checks at its exact head revision. Human acceptance must be recorded against that revision or an explicitly reviewed successor. Neither license/storage approval nor a green automated check supplies human scientific acceptance.
+[Remediation PR #2](https://github.com/Open-Source-Research-Initiative/medical-xr-capability-evidence/pull/2) contains the concrete proposed changes and reports automated checks at its exact head revision. [OSRI registration PR #8](https://github.com/Open-Source-Research-Initiative/osri/pull/8) proposes the project ID. Human acceptance must be recorded against each exact reviewed revision or an explicitly reviewed successor. Neither license/storage approval nor a green automated check supplies human scientific acceptance.
 
 | Review type | State |
 | --- | --- |

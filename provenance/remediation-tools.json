@@ -1,0 +1,38 @@
+{
+  "observed_on": "2026-11-13",
+  "performed_by": "Codex; exact coordinator/reviewer runtime model builds not exposed",
+  "role": "Repository remediation, source presentation and method/design review; no new scientific screening",
+  "skills": [
+    {
+      "skill": "fix-finding",
+      "sha256": "ba7311f43b2c0742da0d5c6bdb2f0b26601c09cc59747cf8c62a09f8d0bb86d2",
+      "declared_version": null,
+      "known_package_version": "0.1.32"
+    },
+    {
+      "skill": "write-with-purpose",
+      "sha256": "917dd5c198307133b050a5e1cf6fc7d10dd0cf98e1ac5ca9997e71ed7485b266",
+      "declared_version": null,
+      "known_package_version": null
+    },
+    {
+      "skill": "meta-analysis",
+      "sha256": "d93ba5e580101185f31aa0b114428b570ba0294217c242ba4bb1b8569cafa2b9",
+      "declared_version": null,
+      "known_package_version": null
+    },
+    {
+      "skill": "design-study",
+      "sha256": "ee49cc85fe95901d752d55a9fe7f78de0af3864523fabcc4ef37012135c47b62",
+      "declared_version": null,
+      "known_package_version": null
+    },
+    {
+      "skill": "define-variables",
+      "sha256": "9bf85903bf29437f41bdaaafbf46ee789262d5bf6d15989cfb3ebb9db5f62219",
+      "declared_version": null,
+      "known_package_version": null
+    }
+  ],
+  "limits": "Content hashes identify observed instruction files; they do not reconstruct historical versions or imply every optional workflow ran."
+}

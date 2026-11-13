@@ -1,5 +1,6 @@
 """Display an existing authored source trace; never generate screening labels."""
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -25,6 +26,7 @@ def validate_record(record):
 
 
 def main():
+    sys.stdout.reconfigure(encoding="utf-8")
     record = validate_record(json.loads((ROOT / "examples/P0000314.json").read_text(encoding="utf-8")))
     print(record["publication_id"] + ": " + record["title"])
     print("Source: " + record["source"]["url"] + " — " + record["source"]["section"])
