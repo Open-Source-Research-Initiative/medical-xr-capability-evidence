@@ -12,7 +12,7 @@
     {
       "skill": "write-with-purpose",
       "sha256": "917dd5c198307133b050a5e1cf6fc7d10dd0cf98e1ac5ca9997e71ed7485b266",
-      "declared_version": null,
+      "declared_version": "0.3.2",
       "known_package_version": null
     },
     {

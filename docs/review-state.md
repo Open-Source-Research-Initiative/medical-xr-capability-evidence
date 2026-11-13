@@ -15,6 +15,6 @@ The supplied review of public revision `8c92a767d1170feb37f7fd3162bcf652cab55e35
 | External peer review | Not established |
 | OSRI project ID/register | Proposed OSRI-0001; pending administrator acceptance |
 
-The initial founder-only stage permits documented self-review under OSRI-0.1.0. A zero-approval GitHub setting is an administrative accommodation to that stage, not evidence of independent review. Required CI and administrator enforcement should be recorded from live settings after installation. A qualified independent domain/methods review remains desirable before claims about research reliability.
+The initial founder-only stage permits documented self-review under OSRI-0.1.0. A zero-approval GitHub setting is an administrative accommodation to that stage, not evidence of independent review. The [verified live settings](../provenance/repository-governance.json) require the GitHub Actions public-record gate, an up-to-date branch and resolved conversations, apply to administrators, and block force pushes and deletion. A qualified independent domain/methods review remains desirable before claims about research reliability.
 
 For a human acceptance entry, identify the exact commit, files and evidence inspected, checks considered, unresolved limitations and acceptance scope. Repository acceptance may authorize a merge without certifying every study or endorsing a scientific conclusion. Preserve the zero human-record count until actual source-based human attestations exist.

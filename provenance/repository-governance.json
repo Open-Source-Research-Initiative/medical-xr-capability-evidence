@@ -1,0 +1,37 @@
+{
+  "format": "medical-xr-repository-governance/1",
+  "observed_at_utc": "2026-11-13T23:37:22Z",
+  "repository": "Open-Source-Research-Initiative/medical-xr-capability-evidence",
+  "branch": "main",
+  "verified_via": "Authenticated GitHub REST update and subsequent independent GET",
+  "required_status_checks": {
+    "strict": true,
+    "checks": [
+      {
+        "context": "Public record validation",
+        "app_id": 15368,
+        "app": "github-actions"
+      }
+    ]
+  },
+  "enforce_admins": true,
+  "required_conversation_resolution": true,
+  "allow_force_pushes": false,
+  "allow_deletions": false,
+  "required_approving_review_count": 0,
+  "dismiss_stale_reviews": true,
+  "review_limitation": "Founder-only OSRI stage permits documented self-review. Zero GitHub approvals does not establish independent human review; exact-revision human acceptance remains required by project instructions.",
+  "automated_evidence_at": "536daa24200fd0a525e240d1210214b90fff8f52",
+  "successful_ci_runs": [
+    "https://github.com/Open-Source-Research-Initiative/medical-xr-capability-evidence/actions/runs/43528048311",
+    "https://github.com/Open-Source-Research-Initiative/medical-xr-capability-evidence/actions/runs/43528054734"
+  ],
+  "ci_scope": "32 tests in normal and optimized Python, plus full public history/provenance checks, on Windows and Linux. Original analysis reproduction and scientific verification are separate.",
+  "open_contribution_issue": "https://github.com/Open-Source-Research-Initiative/medical-xr-capability-evidence/issues/1",
+  "remediation_pr": "https://github.com/Open-Source-Research-Initiative/medical-xr-capability-evidence/pull/2",
+  "project_register_pr": "https://github.com/Open-Source-Research-Initiative/osri/pull/8",
+  "proposed_project_id": "OSRI-0001",
+  "project_acceptance": "PENDING_HUMAN_EXACT_REVISION_REVIEW",
+  "human_scientific_verification": 0,
+  "screening_state": "PAUSED_BY_HUMAN"
+}
