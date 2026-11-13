@@ -1,0 +1,314 @@
+[
+  {
+    "original_path": "work/screening_qa/audit_context_stream_labels.py",
+    "candidate_path": "analysis/screening_qa/audit_context_stream_labels.py",
+    "sha256": "4da18c53eadd3c2fd40a36978ff529efd08ec8fda8a79a468243170270a382b6",
+    "bytes": 7071
+  },
+  {
+    "original_path": "work/screening_qa/check_labeled_excerpts.py",
+    "candidate_path": "analysis/screening_qa/check_labeled_excerpts.py",
+    "sha256": "074d4446f28555116aa437c0051a250de519709b202ced5d9a923e8d5d8f6945",
+    "bytes": 3025
+  },
+  {
+    "original_path": "work/screening_qa/close_medical_scope_audit.py",
+    "candidate_path": "analysis/screening_qa/close_medical_scope_audit.py",
+    "sha256": "bec3eec8684464f8c81b6fd2e8aa5be0710a5c6f06cf0c27df0ad54abbee48b6",
+    "bytes": 7166
+  },
+  {
+    "original_path": "work/screening_qa/coordinator_screen_B0380.py",
+    "candidate_path": "analysis/screening_qa/coordinator_screen_B0380.py",
+    "sha256": "0e3a52dd92139bf8ec9fa348162f5f247a3bd20d510b484ba85df4abf4eeec2f",
+    "bytes": 8558
+  },
+  {
+    "original_path": "work/screening_qa/coordinator_write_partial.py",
+    "candidate_path": "analysis/screening_qa/coordinator_write_partial.py",
+    "sha256": "802cb2a546f01c06724234ebcee933b4f0592e58b993f97ccb873beede9e4a14",
+    "bytes": 5114
+  },
+  {
+    "original_path": "work/screening_qa/coordinator_write_partial_B0379_only.py",
+    "candidate_path": "analysis/screening_qa/coordinator_write_partial_B0379_only.py",
+    "sha256": "02253b99ed5bffedcd68914080b307adc92353b890deacc91207ef4596b340bd",
+    "bytes": 4311
+  },
+  {
+    "original_path": "work/screening_qa/coverage_report.py",
+    "candidate_path": "analysis/screening_qa/coverage_report.py",
+    "sha256": "f920cbd242d0bab05ea02dc12efc00ce484d2e0f8cde8bc79e6c24e574f03d93",
+    "bytes": 8308
+  },
+  {
+    "original_path": "work/screening_qa/coverage_report_pre_coordinator_range.py",
+    "candidate_path": "analysis/screening_qa/coverage_report_pre_coordinator_range.py",
+    "sha256": "82731f377bfe2fec75a0bd3d52b9cc93fd321036b40354d18d1851c9dddf97f5",
+    "bytes": 7976
+  },
+  {
+    "original_path": "work/screening_qa/coverage_report_pre_coordinator_shard.py",
+    "candidate_path": "analysis/screening_qa/coverage_report_pre_coordinator_shard.py",
+    "sha256": "c018978396a14868a4bab17600a3cdd422ff158eaeecaab9127969678557f9bf",
+    "bytes": 6071
+  },
+  {
+    "original_path": "work/screening_qa/coverage_report_pre_shards.py",
+    "candidate_path": "analysis/screening_qa/coverage_report_pre_shards.py",
+    "sha256": "aecfd4d0026d9a2141146718eae7f95bbca26028b151297cd56f5b7f13aa7e09",
+    "bytes": 3860
+  },
+  {
+    "original_path": "work/screening_qa/cross_group_doi_candidates.py",
+    "candidate_path": "analysis/screening_qa/cross_group_doi_candidates.py",
+    "sha256": "3d5ab2b5e73df906b654353752362460f2cb38a992405c90f82a27d3ea00498f",
+    "bytes": 3137
+  },
+  {
+    "original_path": "work/screening_qa/finalize_coordinator_B0379.py",
+    "candidate_path": "analysis/screening_qa/finalize_coordinator_B0379.py",
+    "sha256": "b35cd437b638ea20b19e4aaaa565e3a401770d75ca3d22576d86cd9407f7f96b",
+    "bytes": 2143
+  },
+  {
+    "original_path": "work/screening_qa/finalize_coordinator_batch.py",
+    "candidate_path": "analysis/screening_qa/finalize_coordinator_batch.py",
+    "sha256": "5bad2ecf2b1ad0582c85555ad3cc9c440403303c2e94790e4e9c0da5862704c0",
+    "bytes": 4072
+  },
+  {
+    "original_path": "work/screening_qa/find_wellness_boundary_candidates.py",
+    "candidate_path": "analysis/screening_qa/find_wellness_boundary_candidates.py",
+    "sha256": "1412cf04bf1418cbfde857baf7f074280276798dbb1a305ff22ea46cbe294619",
+    "bytes": 2508
+  },
+  {
+    "original_path": "work/screening_qa/integrate_coordinator_B0379.py",
+    "candidate_path": "analysis/screening_qa/integrate_coordinator_B0379.py",
+    "sha256": "02c5c669acd486ebcc7d7099c30db9b0b7f55e5caaf3dced57766221c42354c6",
+    "bytes": 2806
+  },
+  {
+    "original_path": "work/screening_qa/integrate_coordinator_B0380.py",
+    "candidate_path": "analysis/screening_qa/integrate_coordinator_B0380.py",
+    "sha256": "8cdf3d687ab16c6d0ffd48b47e86a2470f5ac147b5420c24be42c23819be746a",
+    "bytes": 2804
+  },
+  {
+    "original_path": "work/screening_qa/integrate_terra_shard.py",
+    "candidate_path": "analysis/screening_qa/integrate_terra_shard.py",
+    "sha256": "43fff42bdf458087740920864ccffc2de79af09259b036580a7f0a294ddb2059",
+    "bytes": 5355
+  },
+  {
+    "original_path": "work/screening_qa/locate_date_window_rechecks.py",
+    "candidate_path": "analysis/screening_qa/locate_date_window_rechecks.py",
+    "sha256": "59b7c0c05a70e808ea59e6a65b8d3ef5c828e5e2d788d4f5618335bcbb986419",
+    "bytes": 6044
+  },
+  {
+    "original_path": "work/screening_qa/locate_medical_scope_rechecks.py",
+    "candidate_path": "analysis/screening_qa/locate_medical_scope_rechecks.py",
+    "sha256": "52cc6512dcddee53fe2792d46398a5435b2962d78c20c70fbf43af3e8e1836dd",
+    "bytes": 7879
+  },
+  {
+    "original_path": "work/screening_qa/match_notice_to_inventory.py",
+    "candidate_path": "analysis/screening_qa/match_notice_to_inventory.py",
+    "sha256": "66bdfb7d9af94eb43550526ced3961819580cc2bd3b5de186a1b3ec46dcae977",
+    "bytes": 2207
+  },
+  {
+    "original_path": "work/screening_qa/missing_abstract_candidates.py",
+    "candidate_path": "analysis/screening_qa/missing_abstract_candidates.py",
+    "sha256": "0533bce488092f3832c137d6fd634e4865d3e356bd74eb583a2ddd14214ae604",
+    "bytes": 1222
+  },
+  {
+    "original_path": "work/screening_qa/modality_candidates.py",
+    "candidate_path": "analysis/screening_qa/modality_candidates.py",
+    "sha256": "ad46102ccfe489794722c54abfc3eb32988fc7c9b968131db1bcb770878c7645",
+    "bytes": 1861
+  },
+  {
+    "original_path": "work/screening_qa/notice_title_candidates.py",
+    "candidate_path": "analysis/screening_qa/notice_title_candidates.py",
+    "sha256": "8006a9500c61ae7aa2719e65b3f2c6396321330f9404d40dbaffafba37e94417",
+    "bytes": 1924
+  },
+  {
+    "original_path": "work/screening_qa/observation_gate_application_audit.py",
+    "candidate_path": "analysis/screening_qa/observation_gate_application_audit.py",
+    "sha256": "c4584f5c294e2442d5133ac90ed7e59ef4d409fedbb844f68f3e031191bbd9fb",
+    "bytes": 16776
+  },
+  {
+    "original_path": "work/screening_qa/prepare_initial_date_gaps.py",
+    "candidate_path": "analysis/screening_qa/prepare_initial_date_gaps.py",
+    "sha256": "7bf25f16e789916034da29ffe61320b0f96983bcde68de1a4b0f161f49541152",
+    "bytes": 2823
+  },
+  {
+    "original_path": "work/screening_qa/prepare_private_rechecks.py",
+    "candidate_path": "analysis/screening_qa/prepare_private_rechecks.py",
+    "sha256": "fee41b7e935afc9674ded30bf7e7ecd0f72e8e30a6dadbe41f79cfe63dc515a1",
+    "bytes": 3124
+  },
+  {
+    "original_path": "work/screening_qa/prepare_routine_audit.py",
+    "candidate_path": "analysis/screening_qa/prepare_routine_audit.py",
+    "sha256": "5438f1b74753d6c436476fee12627529163506a7d62c4d9e4504b2d44b56ae8d",
+    "bytes": 3706
+  },
+  {
+    "original_path": "work/screening_qa/publish_resume_review.py",
+    "candidate_path": "analysis/screening_qa/publish_resume_review.py",
+    "sha256": "8d6e6ba13a0cf5bf964c8ed3684758c23dcbe4e6bf9efeddca9b523997ecb0fd",
+    "bytes": 120609
+  },
+  {
+    "original_path": "work/screening_qa/refresh_legacy_resume.py",
+    "candidate_path": "analysis/screening_qa/refresh_legacy_resume.py",
+    "sha256": "cf056e56ba75c539c0f07f20bf79faf857871e8318ebbc7b165d8e6087d1f12a",
+    "bytes": 1803
+  },
+  {
+    "original_path": "work/screening_qa/refresh_resume_run.py",
+    "candidate_path": "analysis/screening_qa/refresh_resume_run.py",
+    "sha256": "0ed9ca8a4c2b35861a5b864f651cbaeeb89113a5c466664b9052bfa61b4564df",
+    "bytes": 6026
+  },
+  {
+    "original_path": "work/screening_qa/register_resume_legacy.py",
+    "candidate_path": "analysis/screening_qa/register_resume_legacy.py",
+    "sha256": "220fc24af7df2057ad8dbfb08c8ab0970b322524c6de5e21b3684bc0cbb6f1af",
+    "bytes": 4736
+  },
+  {
+    "original_path": "work/screening_qa/resume_rechecks.py",
+    "candidate_path": "analysis/screening_qa/resume_rechecks.py",
+    "sha256": "499a778d4483ddfc5aa97af59dccf7ee53e3960816e6b42bb5f9f42188eb43d3",
+    "bytes": 18392
+  },
+  {
+    "original_path": "work/screening_qa/resume_screening.py",
+    "candidate_path": "analysis/screening_qa/resume_screening.py",
+    "sha256": "b2779c85b1466265480fc72b445b0fd055be2791f8fc58024eeb85f37dedf22c",
+    "bytes": 22457
+  },
+  {
+    "original_path": "work/screening_qa/study_registration_candidates.py",
+    "candidate_path": "analysis/screening_qa/study_registration_candidates.py",
+    "sha256": "4039e732864e78ac2f07b76a6f5c2dbbe0e5ab306122b2f0274cef7c68a3a5e9",
+    "bytes": 2237
+  },
+  {
+    "original_path": "work/screening_qa/terra-consolidate-modality-revision1.py",
+    "candidate_path": "analysis/screening_qa/terra-consolidate-modality-revision1.py",
+    "sha256": "040fc431e374a37013f348296b01b9c6d5a94deede21e4d26ba8a20254d6c253",
+    "bytes": 2522
+  },
+  {
+    "original_path": "work/screening_qa/terra-consolidate-modality-revision2.py",
+    "candidate_path": "analysis/screening_qa/terra-consolidate-modality-revision2.py",
+    "sha256": "5d4c3c86bf62caec00d01caee8f1c1130a6ade22c4a2394f54ba3a7b14485d04",
+    "bytes": 2569
+  },
+  {
+    "original_path": "work/screening_qa/terra-consolidate-modality-revision3.py",
+    "candidate_path": "analysis/screening_qa/terra-consolidate-modality-revision3.py",
+    "sha256": "26036f84b8ffede924e1e4c06cc8c7519363e025201eea1878ee03af20d495ca",
+    "bytes": 2617
+  },
+  {
+    "original_path": "work/screening_qa/terra-consolidate-modality-revision4.py",
+    "candidate_path": "analysis/screening_qa/terra-consolidate-modality-revision4.py",
+    "sha256": "b0b785d04caf7aab038d02d7081cb7875d9d3fdff6ed5339373ae3d1483ad37d",
+    "bytes": 2777
+  },
+  {
+    "original_path": "work/screening_qa/terra-consolidate-modality-revision5.py",
+    "candidate_path": "analysis/screening_qa/terra-consolidate-modality-revision5.py",
+    "sha256": "c4264a0567809ed4750506cc624a89d5292c630973edd629e5f4832f7a2a6052",
+    "bytes": 2955
+  },
+  {
+    "original_path": "work/screening_qa/terra-consolidate-modality-revision6.py",
+    "candidate_path": "analysis/screening_qa/terra-consolidate-modality-revision6.py",
+    "sha256": "1d5d9ad90183af2e4e817d0266d413a225a3ccdbefd55f01fcd29233b8a4eef7",
+    "bytes": 3005
+  },
+  {
+    "original_path": "work/screening_qa/terra-consolidate-modality.py",
+    "candidate_path": "analysis/screening_qa/terra-consolidate-modality.py",
+    "sha256": "c8ad63d4653db58f5a8fdc955a5aee7f17310c61695b942eb2f451f9bf9f4ffe",
+    "bytes": 2420
+  },
+  {
+    "original_path": "work/screening_qa/terra-type-snapshot.py",
+    "candidate_path": "analysis/screening_qa/terra-type-snapshot.py",
+    "sha256": "815c195ce0b990f5f52e0b02aa4e5acf805412e4056773c07f8cea711abfd60d",
+    "bytes": 811
+  },
+  {
+    "original_path": "work/screening_qa/validate_complete_initial_structure.py",
+    "candidate_path": "analysis/screening_qa/validate_complete_initial_structure.py",
+    "sha256": "d453313e3a640fc256084e211daa488035d89643b56b3480842f083e9bd5e6b7",
+    "bytes": 5154
+  },
+  {
+    "original_path": "work/screening_qa/validate_ledgers.py",
+    "candidate_path": "analysis/screening_qa/validate_ledgers.py",
+    "sha256": "3bc24a7571baac2df4c4fc3288483e938ba405d8f3468734a4abd51e2fbe6ab3",
+    "bytes": 4108
+  },
+  {
+    "original_path": "work/screening_qa/validate_modality_manifest.py",
+    "candidate_path": "analysis/screening_qa/validate_modality_manifest.py",
+    "sha256": "556712a539005aa188f447b6b4f621083e963488e7d7bb40ea15c59c8885b974",
+    "bytes": 2249
+  },
+  {
+    "original_path": "work/screening_qa/validate_parent_sources.py",
+    "candidate_path": "analysis/screening_qa/validate_parent_sources.py",
+    "sha256": "b3a39cb86b2482aed6209e1f33182739f0dd12175dac2258da4ed69748e37731",
+    "bytes": 2626
+  },
+  {
+    "original_path": "work/screening_qa/validate_resume_manifest.py",
+    "candidate_path": "analysis/screening_qa/validate_resume_manifest.py",
+    "sha256": "c3aa6cff5fbd404931b5bf02d2f04dff7122e38ce03b5f032f262818a100e38a",
+    "bytes": 2311
+  },
+  {
+    "original_path": "work/screening_qa/verify_routine_note_coverage.py",
+    "candidate_path": "analysis/screening_qa/verify_routine_note_coverage.py",
+    "sha256": "19fa70450081313b02b998b4b829ad27a224837b40dc4aea08c33d3385b6a7ed",
+    "bytes": 1186
+  },
+  {
+    "original_path": "work/screening_qa/verify_sample_selection.py",
+    "candidate_path": "analysis/screening_qa/verify_sample_selection.py",
+    "sha256": "6c694b457778f67a66eba1759cb4868e9a02a5733767df730f87fde2c5fa7dfd",
+    "bytes": 3141
+  },
+  {
+    "original_path": "work/screening_qa/verify_shard_retrospective_scope.py",
+    "candidate_path": "analysis/screening_qa/verify_shard_retrospective_scope.py",
+    "sha256": "9a8569c07309458112fc222cb31b4b5f654cd4d4b94705c6094031e2f1af0b12",
+    "bytes": 2548
+  },
+  {
+    "original_path": "work/screening_qa/verify_shard_revision_structure.py",
+    "candidate_path": "analysis/screening_qa/verify_shard_revision_structure.py",
+    "sha256": "69aa81119ffef7f45bf9b35bf35697c807177d95ab7c7eeac8df12c995bda464",
+    "bytes": 3303
+  },
+  {
+    "original_path": "work/screening_qa/watch_resume_publications.py",
+    "candidate_path": "analysis/screening_qa/watch_resume_publications.py",
+    "sha256": "c5cc60a35b6f0403c69d26c35ce37fd72ee492b434cb952c8e26b5efbf52f4bc",
+    "bytes": 5476
+  }
+]

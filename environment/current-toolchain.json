@@ -1,0 +1,18 @@
+{
+  "observed_on": "2026-11-13",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "implementation": "CPython",
+  "system": "Windows",
+  "machine": "AMD64",
+  "git": "git version 2.56.0.windows.4",
+  "optional_packages_observed": {
+    "pandas": "3.0.1",
+    "numpy": "2.3.5",
+    "requests": "NOT_INSTALLED_IN_THIS_PYTHON",
+    "pypdf": "6.21.4",
+    "PyMuPDF": "NOT_INSTALLED_IN_THIS_PYTHON",
+    "rispy": "NOT_INSTALLED_IN_THIS_PYTHON",
+    "openpyxl": "3.1.5"
+  },
+  "scope": "Current migration environment only, not a reconstructed historical dependency lock or cross-platform validation. Core current screening publication/validation scripts use Python standard library; optional older retrieval/analysis tasks have their own requirements."
+}

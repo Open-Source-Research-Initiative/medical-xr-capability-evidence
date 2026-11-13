@@ -8,3 +8,13 @@ __pycache__/
 *.zip
 *.bundle
 local-access*
+
+# Keep controlled source payloads and original private history out of public Git.
+outputs/
+Meta Analysis Exports/
+supporting-context/
+publication-support*/
+*.ris
+*.RIS
+*.pdf
+analysis/screening_qa/coordinator_screen_B0380.py

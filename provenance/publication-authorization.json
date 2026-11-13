@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-13",
+  "human_lead": "Cole / @ajhcs",
+  "authorized_action": "Create the Medical XR repository under OSRI, preserve Git history and provenance, keep restricted evidence outside the public repository, and leave screening paused.",
+  "target_repository": "Open-Source-Research-Initiative/medical-xr-capability-evidence",
+  "repository_publication_authorized": true,
+  "scientific_screening_resume_authorized": false,
+  "scientific_human_verification": "PENDING",
+  "external_peer_review": "NOT_ESTABLISHED",
+  "standards_for_repository_administration": {
+    "version": "OSRI-0.1.0",
+    "tag": "v0.1.0",
+    "commit": "8c39a0a36c0e962060659b1d51f666c367f9464a"
+  },
+  "license_assignment": "No new project-wide license was selected by this authorization. Existing and third-party rights remain separate.",
+  "public_export_adjustment": "Keep excerpt-bearing draft commits in their unchanged controlled bundle; publish a branch derived from the original safe import and include a full commit/hash map."
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "skill": "orchestrate",
+    "observed_sha256_on_2026_11_13": "0dbfa8b0365ccf02f61430022d0063020799ccc81d65575e148296f19c4a7484",
+    "version_header": [],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  },
+  {
+    "skill": "meta-analysis",
+    "observed_sha256_on_2026_11_13": "d93ba5e580101185f31aa0b114428b570ba0294217c242ba4bb1b8569cafa2b9",
+    "version_header": [],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  },
+  {
+    "skill": "design-study",
+    "observed_sha256_on_2026_11_13": "ee49cc85fe95901d752d55a9fe7f78de0af3864523fabcc4ef37012135c47b62",
+    "version_header": [],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  },
+  {
+    "skill": "define-variables",
+    "observed_sha256_on_2026_11_13": "9bf85903bf29437f41bdaaafbf46ee789262d5bf6d15989cfb3ebb9db5f62219",
+    "version_header": [],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  },
+  {
+    "skill": "generate-codebook",
+    "observed_sha256_on_2026_11_13": "6c461d01e9310dd5d1c9fdeb98fce242607c706490993af411de91f3b7ee9edc",
+    "version_header": [],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  },
+  {
+    "skill": "version-dataset",
+    "observed_sha256_on_2026_11_13": "0e7532398e18674052699c0e8e8b288de476f3e71ffd36eb7460a5634a92426e",
+    "version_header": [],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  },
+  {
+    "skill": "verify-refs",
+    "observed_sha256_on_2026_11_13": "282664d1cfed36b0ffb185f44f93634e9e66cf1c58921c209f87479a27b43527",
+    "version_header": [],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  },
+  {
+    "skill": "check-reporting",
+    "observed_sha256_on_2026_11_13": "e819b2df51946a1e895b455c7c1c3a4ea6e148ecb96027941d38cf20b7db0986",
+    "version_header": [],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  },
+  {
+    "skill": "fulltext-retrieval",
+    "observed_sha256_on_2026_11_13": "d96a28bb003ae19c0b4ab150958f48c28efe358b9706c547769177c9f1660f5f",
+    "version_header": [],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  },
+  {
+    "skill": "write-with-purpose",
+    "observed_sha256_on_2026_11_13": "917dd5c198307133b050a5e1cf6fc7d10dd0cf98e1ac5ca9997e71ed7485b266",
+    "version_header": [
+      "version: \"0.3.2\""
+    ],
+    "note": "Current installed instruction bytes. This observation does not establish the exact bytes used in every historical screening action."
+  }
+]

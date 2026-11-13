@@ -1,0 +1,22 @@
+{
+  "state": "PAUSED_BY_HUMAN",
+  "as_of_date": "2026-11-13",
+  "last_completed_batch": "B0182",
+  "last_matching_source_audit": "0216",
+  "next_batch": "B0183",
+  "next_publication_ids": "P0009119-P0009168",
+  "next_source_audit_sequence": "0217",
+  "next_batch_source_reading": "UNSTARTED",
+  "six_case_date_audit": "UNREAD_UNPERFORMED",
+  "initial_assessments_remaining": 0,
+  "adjudicated_n": 9226,
+  "adjudication_remaining": 9750,
+  "required_source_audits_unperformed": 9464,
+  "fresh_legacy_considerations_pending": 88,
+  "post_initial_notes_pending": 418,
+  "operational_audits_pending": 5,
+  "human_verified": 0,
+  "human_pending": 18976,
+  "screening_goal_complete": false,
+  "resume_rule": "Only a later instruction from Cole may resume scientific screening. Repository creation does not authorize it."
+}

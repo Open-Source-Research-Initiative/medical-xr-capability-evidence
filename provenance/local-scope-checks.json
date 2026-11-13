@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-13",
+  "performed_by": "Codex coordinator",
+  "primary_source_cache_sha256": "9e63d2b4de232d3ee4371b53ec41180c2061b141c15665c395f50424e5235c6b",
+  "reported_git_blob_hashes_compared_to_computed_content": 31,
+  "mismatches": 0,
+  "candidate_credential_pattern_scan": "No matching filenames returned for the bounded patterns inspected with rg",
+  "candidate_absolute_user_path_scan": "No matching filenames returned under analysis/",
+  "limits": "Pattern checks are bounded and do not establish public reuse rights, absence of every sensitive item or human acceptance."
+}

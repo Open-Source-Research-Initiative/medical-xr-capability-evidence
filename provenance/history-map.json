@@ -1,0 +1,39 @@
+{
+  "original_safe_import_commit": "aae894e2284b89d9a1b48b50582a43798c6280c3",
+  "original_safe_import_tag": "inherited-pause-2026-11-13",
+  "original_history_preservation": "Original commits were not rewritten or deleted. Full original draft history remains in the controlled Git bundle. Public history retains the metadata-only import as an ancestor and derives a safe public tree.",
+  "controlled_git_bundle_sha256": "ab5ce92979f70050cdd8c424a9dd3f4b7ca5e7b44827a612fbb1a1238520f2e4",
+  "controlled_git_bundle_access": "Local controlled copy retained by Cole; no public download URL.",
+  "original_commits": [
+    {
+      "commit": "d7d11a583c5594acbc67d5af96758b4ac8b01d5a",
+      "date": "2026-11-13T16:23:42-05:00",
+      "subject": "Clarify inherited helper scope and record current verification",
+      "publication_disposition": "CONTROLLED_BUNDLE_ONLY_SOURCE_EXCERPT_PRESENT_IN_TREE"
+    },
+    {
+      "commit": "2515272b6feb75854082fc14344fe06d5fcfc822",
+      "date": "2026-11-13T16:20:47-05:00",
+      "subject": "Prepare OSRI migration draft with preserved provenance",
+      "publication_disposition": "CONTROLLED_BUNDLE_ONLY_SOURCE_EXCERPT_PRESENT_IN_TREE"
+    },
+    {
+      "commit": "aae894e2284b89d9a1b48b50582a43798c6280c3",
+      "date": "2026-11-13T16:00:57-05:00",
+      "subject": "Record inherited Medical XR pause checkpoint and complete archive manifest",
+      "publication_disposition": "PUBLIC_ANCESTOR_PRESERVED"
+    }
+  ],
+  "withheld_files": [
+    {
+      "path": "analysis/screening_qa/coordinator_screen_B0380.py",
+      "blob_sha1": "cc8e20c3a1b5115e05935ead3af281a28d396812",
+      "sha256": "0e3a52dd92139bf8ec9fa348162f5f247a3bd20d510b484ba85df4abf4eeec2f",
+      "reason": "Historical helper contains article abstract excerpts and manual source judgments; sharing review is pending. Full bytes preserved in the controlled archive and original Git bundle."
+    }
+  ],
+  "restricted_draft_commits_not_public_ancestors": [
+    "2515272b6feb75854082fc14344fe06d5fcfc822",
+    "d7d11a583c5594acbc67d5af96758b4ac8b01d5a"
+  ]
+}

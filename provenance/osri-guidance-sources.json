@@ -1,0 +1,257 @@
+{
+  "review_date": "2026-11-13",
+  "proposed_standard": "OSRI-0.1.0",
+  "baseline_tag": "v0.1.0",
+  "baseline_commit": "8c39a0a36c0e962060659b1d51f666c367f9464a",
+  "adoption_status": "PROPOSED_PENDING_COLE_ACCEPTANCE",
+  "sources": [
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "AGENTS.md",
+      "sha": "189d660972c5e7e0bd6020213a64cda5cbbb5c72",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/AGENTS.md",
+      "content_sha256": "927e007a21af9da2f110d0baae64b4baecd3fa5ef7c301b2a57fc4fb8d37adbc"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "START_HERE.md",
+      "sha": "ce06c04840deaca0846767f6869599a4939f922b",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/START_HERE.md",
+      "content_sha256": "1cd6b6ab2ee15ee6267afd18576f2ad3633afd4aaf83fc6546be62b1acd06d87"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "CONTRIBUTING.md",
+      "sha": "3ab5030c63750fc797d214ed08e7415098bb363f",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/CONTRIBUTING.md",
+      "content_sha256": "472079a970abfbdb8babc69b3bd3bdcb4b962322786fb7148085a0a57e5ac0ce"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "governance/contribution-standards.md",
+      "sha": "8584cce835af2247aae83b88dc4b5478c430f681",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/governance/contribution-standards.md",
+      "content_sha256": "b2508dc57739e0bd1a51ca50a5262a7f976c1726aef3c788dc0d652d1861460f"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "governance/open-formats.md",
+      "sha": "0bd400cbea8e715a0e24d97fe97299ae2ab42343",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/governance/open-formats.md",
+      "content_sha256": "5034f45b8acaf7a82485a0ee1ce8dfdae5935b769caa0c9e48c49bf0168beab4"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "docs/repositories.md",
+      "sha": "6e10345b33f5404b69af9e04d7684c64cd0f3c1f",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/docs/repositories.md",
+      "content_sha256": "7be65c19fe7358a6012099e6ef57028ce4277373fe522078636e2ad98b8e261a"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "projects/README.md",
+      "sha": "c6884f71f6ec13ec04b271e932d374cba684d39c",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/projects/README.md",
+      "content_sha256": "12275de1f933f5f8d7c0cab7462effe5a2c13af8d4f602a6335f27ec61998dd0"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "governance/decisions/2026-11-13-starter-kit.md",
+      "sha": "0703976d2d75231c16e91ae0489d11a323144268",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/governance/decisions/2026-11-13-starter-kit.md",
+      "content_sha256": "e5d9543a4efca8d03b6bd07d8637646b1194aee0c98685cff99775ebc65c676b"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "areas/README.md",
+      "sha": "736b8982c817ef5bd2fa92318ff647abe069b52d",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/areas/README.md",
+      "content_sha256": "854e9d8cc6bc85c3e31341d13d58c1935cd1407ee80b1321f873b4b8d3dc90f6"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "tooling/workflows.md",
+      "sha": "999c6b0aa76988b4ba4d27e93ed77d1d78688bda",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/tooling/workflows.md",
+      "content_sha256": "f5a590abe791a1ac9ef23e09650d17ce4b1050df9c58c7b57b7991263d150d3d"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "publications/README.md",
+      "sha": "4fea3100a57b77678394138058b053e379dbc00b",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/publications/README.md",
+      "content_sha256": "80dfa4d25e8f61ccf9d3f1d733ff7eb68fd27479f7226327a0129940684e5c9f"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "README.md",
+      "sha": "bd9b853228d600c77caf443a8539a0f82878fc76",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/README.md",
+      "content_sha256": "d08082b136b50a938b788331d76b263ca85af0059b1e9615fb399c40ab3e6a58"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "tooling/README.md",
+      "sha": "92939ab04c87a7b5d9724f3c1b8c47bc824957e2",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/tooling/README.md",
+      "content_sha256": "963cce1983dc5c05787a78a1007916d0fc58bb8fa42cf588792c36c0292f94da"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "governance/writing-style.md",
+      "sha": "c836035e07bad150e7c4563156b14782ef182736",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/governance/writing-style.md",
+      "content_sha256": "cfbdb4f37677aa2502bc5250f3eaa3e5377c1652749d5966a5303912fc0f2642"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "governance/visual-identity.md",
+      "sha": "40205821209911f3ec6dfa74659af2c8c12745b7",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/governance/visual-identity.md",
+      "content_sha256": "8249ffd44cb3d9fa5f83bb4fb941037f8907e75ce0216d48d11416b3eceb0143"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "governance/resource-requests.md",
+      "sha": "40e2778fe371753882a57e0a1656fbac7e9267aa",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/governance/resource-requests.md",
+      "content_sha256": "3fcb9d584acd6bc3bebde0d2f9bef106a5d30e8299cc16a89b4133bdca4ba433"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "governance/roles.md",
+      "sha": "8310b6567d1fca0e38f2c4eca9db2a948ca954df",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/governance/roles.md",
+      "content_sha256": "743ae29899e2d8e982641153a3f9e434bbdfd41b63b89018a3f8c97a04e605d7"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "projects/projects.csv",
+      "sha": "bc879fd66d51db00e7ab91cb807ddc9712ba918b",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/projects/projects.csv",
+      "content_sha256": "87cd810eb996ad48c3dc5e69584ba0577625b8c9dac6168292e3d99993d4cf42"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "08976dc838d4e9f9d6523f854b9bcc133c30c175",
+      "path": "publications/publications.csv",
+      "sha": "257c12e1527c308a5506e674627c964cc9e75d77",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/08976dc838d4e9f9d6523f854b9bcc133c30c175/publications/publications.csv",
+      "content_sha256": "d5e9833b4e33f544c11619b1de20eb1ae1f569d61da24858f83c43c613393191"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "AGENTS.md",
+      "sha": "f36ce3f987e4ca0f01f62049ab0d5df8fca0d479",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/AGENTS.md",
+      "content_sha256": "52ae027eb3cdc90e71cc215e77fcade8ed78a5ad48fcd7789db7966e3e005df9"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "README.md",
+      "sha": "421909e0b163bc76c1e0e5a0776418f9519fa762",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/README.md",
+      "content_sha256": "381a6dfa7b1538d233b275a8ad5afc189e5882568ecc3ae7ccf7fbf977fc9e91"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "protocol.md",
+      "sha": "ebef7c1556a56542b0f6e76dec16849ee80e1a87",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/protocol.md",
+      "content_sha256": "cf92f37beabf4b19e7d65dcea2e633e54fa686d53711e01687917775ad125177"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "research-task.md",
+      "sha": "4ab5da21682d457e60205f46297dd7e2a0f8f3c3",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/research-task.md",
+      "content_sha256": "9e96c897cc7fe952978ca21a510d3b2005e38816bbe72bac7c7d70032b1604e5"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "LICENSE.md",
+      "sha": "3f4ed1716af696d3437a3e8c99a4f1f7fda1556b",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/LICENSE.md",
+      "content_sha256": "6e521c55bf300daf922dc1f1dc95eb049fd922c5de49109b13368cd3bcc3083f"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "data/README.md",
+      "sha": "3d7adcda5495f9b9d47a3fb37d1dd05099431527",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/data/README.md",
+      "content_sha256": "922ebf99723500a575d06a824108c2cf5329df3ccef7a6df7816e9b624a2ef03"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "contributions.md",
+      "sha": "2d543e0ea620542d102ef1b2e780982f62d51fe1",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/contributions.md",
+      "content_sha256": "9e60452d2f502b6c566f4660b9071c624e6763096c5e035cc1b1f244c8565e40"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "CONTRIBUTING.md",
+      "sha": "f24fc23ecc7d7b223e87d47f62b4db3826e19843",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/CONTRIBUTING.md",
+      "content_sha256": "65b353de00a0cd9663a93559b711b26f67610acb0126656301b7bc63ee09f666"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "sources.csv",
+      "sha": "5a92dce5071179fc7bfd0d674cff1fd0354159a8",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/sources.csv",
+      "content_sha256": "e6c9a1a649c7a0919f6c32fd1a116570e25ab041c3013d5e19c9595eaa77c5f0"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/project-template",
+      "ref": "f4349ad95be654aec28f71c02da5745cf4ec3558",
+      "path": "writing/README.md",
+      "sha": "9ee9c9b0fcc9d421607a717a5640f78ebeee48f2",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/project-template/blob/f4349ad95be654aec28f71c02da5745cf4ec3558/writing/README.md",
+      "content_sha256": "115fd7f6d3336d7839501bf83735c12ac713b73c35281738e9e2f28c732f240a"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/.github",
+      "ref": "06fff0775218210ff265e940942ec4505859a1d1",
+      "path": "profile/README.md",
+      "sha": "8568fc3dca635b93b621b264f07d34d6da3f3ae0",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/.github/blob/06fff0775218210ff265e940942ec4505859a1d1/profile/README.md",
+      "content_sha256": "7a1d95b07ad1b812c83a5e8964af691604dad5266b4ce65eca7c6aeb540cfcee"
+    },
+    {
+      "repository": "Open-Source-Research-Initiative/osri",
+      "ref": "8c39a0a36c0e962060659b1d51f666c367f9464a",
+      "path": "governance/contribution-standards.md",
+      "sha": "8584cce835af2247aae83b88dc4b5478c430f681",
+      "display_url": "https://github.com/Open-Source-Research-Initiative/osri/blob/8c39a0a36c0e962060659b1d51f666c367f9464a/governance/contribution-standards.md",
+      "content_sha256": "b2508dc57739e0bd1a51ca50a5262a7f976c1726aef3c788dc0d652d1861460f"
+    }
+  ]
+}

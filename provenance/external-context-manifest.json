@@ -1,0 +1,32 @@
+[
+  {
+    "artifact_id": "Medical-XR-Resume-Goal-Prompt.txt",
+    "sha256": "4e1b629d081ce77b66f1deb7649d6be07f2c9d86e008cecf663cf2cbb2a16db3",
+    "bytes": 1720,
+    "access": "LOCAL_CONTROLLED_CONTEXT; not included in public candidate by default"
+  },
+  {
+    "artifact_id": "Medical-XR-Resume-Review-and-Execution-Brief.md",
+    "sha256": "c8dc3b564660ff7353140df579b05bc4d1ad3ef20802d348bfcab8701936ad88",
+    "bytes": 14831,
+    "access": "LOCAL_CONTROLLED_CONTEXT; not included in public candidate by default"
+  },
+  {
+    "artifact_id": "verified-adjudication-coverage.json",
+    "sha256": "a8f4fafe464f0e80a66fbeff01edc36e35328b0d75e9ce7498c0aacc68e9175c",
+    "bytes": 5972,
+    "access": "LOCAL_CONTROLLED_CONTEXT; not included in public candidate by default"
+  },
+  {
+    "artifact_id": "verified-audit-samples.json",
+    "sha256": "d18f92cf3eb70c54a98e8eb2e4223f671fb215d09a5b2719dd385b8c53bdb106",
+    "bytes": 13351,
+    "access": "LOCAL_CONTROLLED_CONTEXT; not included in public candidate by default"
+  },
+  {
+    "artifact_id": "verified-coverage.json",
+    "sha256": "c5233c8a9d436b8d3073402f8a9d6b5b6a30a1bfbd0a9337407502ec824e6bbf",
+    "bytes": 23672,
+    "access": "LOCAL_CONTROLLED_CONTEXT; not included in public candidate by default"
+  }
+]

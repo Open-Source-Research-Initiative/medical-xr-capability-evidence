@@ -1,0 +1,31 @@
+{
+  "artifact_access_contact": "Cole / @ajhcs",
+  "artifact_locations": "Controlled local record; confidential filesystem paths are not public metadata. Approved collaborator storage and persistent external locations are pending.",
+  "artifacts": [
+    {
+      "artifact_id": "medical-xr-paused-20261113T205254Z",
+      "kind": "Complete original workspace archive",
+      "files": 36839,
+      "sha256": "31bb771230857c4eb4dd0a7d3d0fff8861d7fa996f3de9a02b36f746569396bb",
+      "public_download_url": null,
+      "access": "CONTROLLED_LOCAL_RETAINED",
+      "rights": "Contains third-party and source-extract material; access/use/redistribution review required."
+    },
+    {
+      "artifact_id": "medical-xr-original-draft-git-bundle-20261113",
+      "kind": "Complete unchanged original three-commit draft Git history",
+      "sha256": "ab5ce92979f70050cdd8c424a9dd3f4b7ca5e7b44827a612fbb1a1238520f2e4",
+      "public_download_url": null,
+      "access": "CONTROLLED_LOCAL_RETAINED",
+      "rights": "Includes excerpt-bearing historical helper; not a public attachment or release asset."
+    },
+    {
+      "artifact_id": "medical-xr-osri-migration-support-20261113",
+      "kind": "Migration report, context, checks and original Git bundles",
+      "sha256": "98733208852cb9e4895acdba15e3235dbb1279d0786f65c5532c17387a3c7719",
+      "public_download_url": null,
+      "access": "CONTROLLED_LOCAL_RETAINED",
+      "rights": "Includes controlled context and original history; not for public redistribution."
+    }
+  ]
+}

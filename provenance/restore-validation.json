@@ -1,0 +1,23 @@
+{
+  "checked_at_utc": "2026-11-13T21:15:26.585442+00:00",
+  "result": "PASS",
+  "archive_sha256": "31bb771230857c4eb4dd0a7d3d0fff8861d7fa996f3de9a02b36f746569396bb",
+  "restored_files_sha256_verified": 36839,
+  "restored_bytes": 853955550,
+  "restored_manifest_validation": {
+    "published_manifest_sha256": "2f802c49037adedc2db12b52d597bac7168b6274826a0b28f0a2eac745c90579",
+    "hashed_paths_verified": 22601,
+    "frozen_ids": 18976,
+    "pass_A": 18976,
+    "pass_B": 18976,
+    "both": 18976,
+    "adjudicated": 9226,
+    "initial_assessments_remaining": 0,
+    "goal_complete": false,
+    "errors": [],
+    "scope": "Mechanical snapshot integrity and exact coverage only; scientific correctness, source limitations and human verification remain separate."
+  },
+  "performed_by": "Codex coordinator using Python ZIP extraction, SHA-256 and the inherited read-only validator",
+  "scope": "Restored to a different directory on the same Windows machine using the same interpreter. No screening/publication commands or new source judgments ran. This is not cross-platform or fresh-environment validation.",
+  "destination_role": "READ_ONLY_PRESERVATION_CHECK; not a new canonical workspace"
+}
