@@ -12,6 +12,8 @@
 
 **Checks:** Verify original archives/history, inspect public files and reachable Git objects, compare copied code and pause counts, then verify the remote repository. Record actual publication separately from scientific review.
 
-**Limits:** Source adjudication and audits remain unfinished. Human verification is pending. No project-wide reuse license, controlled collaborator storage or external peer review is established.
+**Update, 13 November 2026:** The current task also addresses the supplied public review: repair the checker, expose permissible methods and a runnable example, apply approved MIT/CC BY 4.0 terms, establish private GitHub collaboration, prepare human source review, require CI and propose project registration. Preserve the original chronology. Acceptance of the concrete remediation revision remains pending.
+
+**Limits:** Source adjudication and audits remain unfinished. Human verification and external peer review are pending. The private companion holds metadata derivatives; mixed-rights raw evidence and the complete original bundle remain local pending terms review. License assignment excludes third-party evidence.
 
 **Scientific execution:** Paused after B0182/0216. Next B0183/0217 and the six-case date audit remain unperformed. This task performs no new screening or adjudication.

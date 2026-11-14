@@ -1,0 +1,54 @@
+{
+  "format": "medical-xr-source-route-example/1",
+  "publication_id": "P0000314",
+  "title": "Affective Out-World Experience via Virtual Reality for Older Adults Living with Mild Cognitive Impairments or Mild Dementia",
+  "doi": "10.3390/ijerph20042919",
+  "source": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9957279/",
+    "section": "Methods 2.4 Apparatus",
+    "accessed_on": "2026-11-13",
+    "authors": "Matsangidou and colleagues",
+    "year": 2023,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "excerpt": "repurposed to run on a VIVE Pro Eye VR system"
+  },
+  "interpretation": "The source identifies a headset used for the intervention; the laptop is an observer mirror. This supports the recorded XR configuration route.",
+  "original_assessments": [
+    {
+      "pass": "A",
+      "reviewer": "Sol",
+      "model": "gpt-6.1-sol",
+      "eligibility": "INCLUDE",
+      "modality_stream": "XR"
+    },
+    {
+      "pass": "B",
+      "reviewer": "terra",
+      "model": "gpt-6.1-terra",
+      "eligibility": "INCLUDE",
+      "modality_stream": "UNCERTAIN"
+    }
+  ],
+  "recorded_route": {
+    "eligibility": "INCLUDE",
+    "reason_code": "ELIGIBLE",
+    "evidence_stream": "empirical",
+    "modality_stream": "XR",
+    "human_verification": "PENDING"
+  },
+  "history": {
+    "base_reviewer": "Astra",
+    "base_model": "gpt-6-astra",
+    "source_revision_reviewer": "Adjudicator_Sol_resume",
+    "source_revision_model": "gpt-6.1-sol",
+    "source_revision_artifact": "outputs/Medical-XR-Calibration-and-Full-Screening/resume-20261112/adjudicator_sol/source-audit-0192-B4-legacy-chunk01-B0007-revision.json",
+    "source_revision_sha256": "0350e845904743d6bee393457b9eeec866d14dce6e47afce28168b54baf67705",
+    "note": "Original I/I decisions were preserved. A later uncertain configuration route was revised by the already-saved source audit; this example creates no new assessment."
+  },
+  "limits": [
+    "One existing AI source-enriched route; not human verification.",
+    "The excerpt supports configuration, not clinical effectiveness, sustained adoption or acceleration.",
+    "The offline command checks traceability fields, not the truth of a scientific classification."
+  ]
+}

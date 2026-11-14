@@ -1,9 +1,14 @@
 # Reuse terms
 
-No additional project license has been declared for the inherited original code, writing or data. Publication of this repository does not grant a blanket MIT or CC BY license for those materials.
+Cole / @ajhcs authorized MIT for original project code and CC BY 4.0 for original prose on 13 November 2026, excluding third-party evidence and preserving existing notices.
 
-Third-party articles, exports, abstracts, source excerpts and notices retain their own terms. Their contents are kept outside this public repository where sharing has not been established.
+| Material | Terms |
+| --- | --- |
+| Original project Python code, tests and configuration | [MIT](LICENSES/MIT.txt) |
+| Original methods, documentation and authored example commentary | [CC BY 4.0](LICENSES/CC-BY-4.0.txt); attribute Cole / Medical XR project, identify revision and indicate changes |
+| Third-party articles, exports, abstracts and quotations | Original rights and notices; excluded from this license assignment |
+| Prism identity artwork | Separate OSRI identity terms; excluded from this assignment. See [notices](NOTICE.md). |
 
-OSRI starter materials retain their applicable licenses. The guidance records identify their source URLs and versions. Those starter licenses do not override rights in added research.
+Keep existing notices. Historical code copies remain unchanged; missing headers do not override the terms above. Original scientific decisions remain provisional regardless of reuse rights. OSRI starter material retains its applicable notices.
 
-Cole / @ajhcs will record any project-specific license decision separately. This file does not alter existing rights or access conditions.
+The example's article excerpt is separately attributed under its authors' CC BY 4.0 license. This assignment grants no database subscription or permission to redistribute other source text. The controlled archive is a mixed-rights collection and is not licensed as a whole by this document.

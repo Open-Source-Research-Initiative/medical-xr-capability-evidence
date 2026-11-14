@@ -31,4 +31,10 @@ No acceptance, peer review, publication or clinical finding is established by th
 
 ## 13 November 2026: public repository authorized
 
-Cole authorized creation under OSRI with restricted evidence external and screening paused. This updates the earlier preparation status. Full original draft history remains unchanged in controlled storage. The public branch retains the safe import ancestor and withholds the excerpt-bearing helper and its containing draft commits. Repository administration follows OSRI-0.1.0 at the recorded baseline. This action does not complete source work, human verification, external peer review or license assignment.
+Cole authorized creation under OSRI with restricted evidence external and screening paused. This updates the earlier preparation status. Full original draft history remains unchanged in controlled storage. The public branch retains the safe import ancestor and withholds the excerpt-bearing helper and its containing draft commits. Repository administration follows OSRI-0.1.0 at the recorded baseline. At that point source work, human verification, external peer review and license assignment remained incomplete.
+
+## 13 November 2026: license and collaboration instruction
+
+Cole approved MIT original code and CC BY 4.0 original prose, with third-party evidence excluded and notices preserved, and selected GitHub for controlled collaboration. The new private companion holds permitted metadata derivatives; the complete mixed-rights source archive and original excerpt-bearing Git bundle remain unchanged locally pending terms review. The public project methods are now inspectable, preserving original chronology and hashes.
+
+The supplied strict review assessed baseline 8c92a767d1170feb37f7fd3162bcf652cab55e35 as partial alignment. Its checker concerns were reproduced by Codex; reproduction does not establish a current leak. Remediation is proposed through a PR, with acceptance against an exact revision still pending. User license/storage approval is not human scientific verification or an acceleration finding. Proposed OSRI-0001 registration remains subject to administrator acceptance. Screening remains paused.

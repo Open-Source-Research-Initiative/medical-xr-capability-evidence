@@ -1,0 +1,26 @@
+{
+  "format": "medical-xr-controlled-collaboration/1",
+  "date": "2026-11-13",
+  "repository": "https://github.com/Open-Source-Research-Initiative/medical-xr-controlled-evidence",
+  "visibility": "private",
+  "verified_remote_commit": "18112b468f8306666045ff389e8e153712e65a84",
+  "derivation_manifest_sha256": "832f122ff6f3651e612688097b36e378c35a2ab43b220b823bcf780ce35529a1",
+  "projected_csv_files": 43,
+  "referenced_original_csv_files": 45,
+  "private_committed_files": 55,
+  "coverage": {
+    "frozen_IDs": 18976,
+    "pass_A": 18976,
+    "pass_B": 18976,
+    "adjudicated": 9226,
+    "human_verified": 0
+  },
+  "retained": "Whitelisted decision/provenance identifiers, recorded labels, actual reviewer/model fields, source memberships and artifact/hash references",
+  "omitted": "Source text, abstracts, rationales, quotations, free-text evidence and private conversations",
+  "access_at_setup": "Collaborator API listed ajhcs as admin; no new collaborators invited. Organization/platform administrators may have access.",
+  "checks": "Private validator passed hashes, headers, row counts and distinct-ID coverage; public boundary engine passed bounded content checks over all 55 files and reachable private history.",
+  "full_original_workspace_uploaded": false,
+  "full_original_git_bundle_uploaded": false,
+  "remaining_location": "Unchanged local controlled archives under Cole; public artifact/file manifests retain hashes. Transfer needs item/collection terms review.",
+  "screening_state": "PAUSED_BY_HUMAN"
+}

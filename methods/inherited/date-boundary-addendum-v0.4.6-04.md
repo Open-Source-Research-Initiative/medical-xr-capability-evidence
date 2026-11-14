@@ -1,0 +1,7 @@
+# June 2020 date boundary clarification
+
+New article analysis begins 1 June 2020. A year-only value, a January 1 database placeholder, or an issue month does not resolve the date of first journal publication. For the same journal report, use verified first journal publication/version-of-record date; preserve issue date separately. An issue assignment does not create a new report. Separate preprints and genuinely distinct reports remain linked versions with their own dates and unresolved novelty where appropriate.
+
+P0000726 illustrates the distinction: the publisher lists first publication and version of record as 11 April 2020, with a June 2020 issue date. This same report goes to historical empirical context, outside the new-article queue. P0000750 was published 21 August 2020 and clears this boundary. Both publisher records were inspected independently during audit; original reviewer judgments remain preserved.
+
+Both reviewers must independently check every already-assessed 2020 record in their own saved pass, including agreed inclusions. An unresolved date that determines eligibility remains UNCERTAIN with date-source review pending. A known review/protocol/context role can remain separately routed while its exact date and historical/contemporary role remain pending. Date-locator searches are not date verification. Record source URL, inspected date field, date precision, version/issue distinction and source-access extent per ID. Human verification remains pending.
