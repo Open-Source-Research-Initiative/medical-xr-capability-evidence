@@ -203,6 +203,43 @@ def audit_boundary(repository, tree="HEAD", compare_worktree=True):
     return files, {"reachable_commits": len(commits), "unique_blobs_content_checked": len(bodies), "reachable_objects_content_checked": len(inspected)}
 
 
+def validate_open_methods(repo, files, legacy_manifest):
+    """Bind each unchanged public method to its preserved original manifest row."""
+    name = "provenance/open-methods.json"
+    require(name in files, "REQUIRED_RECORD_NOT_TRACKED", name)
+    record = json.loads((repo.root / name).read_text(encoding="utf-8"))
+    require(isinstance(record, dict) and record.get("format") == "medical-xr-open-methods/1",
+            "OPEN_METHODS_FORMAT")
+    rows = record.get("files")
+    require(isinstance(rows, list) and len(rows) == 13, "OPEN_METHODS_COUNT")
+    legacy = {row["path"]: row for row in legacy_manifest}
+    require(len(legacy) == len(legacy_manifest), "OPEN_METHODS_LEGACY_DUPLICATE")
+    public_paths, original_paths = set(), set()
+    for row in rows:
+        require(isinstance(row, dict), "OPEN_METHODS_ROW")
+        public, original = row.get("public_path"), row.get("original_path")
+        require(isinstance(public, str) and isinstance(original, str), "OPEN_METHODS_PATH")
+        check_name(public)
+        require(public.startswith("methods/inherited/") and PurePosixPath(public).as_posix() == public,
+                "OPEN_METHODS_PATH")
+        require(public not in public_paths and original not in original_paths, "OPEN_METHODS_DUPLICATE")
+        public_paths.add(public)
+        original_paths.add(original)
+        size, digest = row.get("bytes"), row.get("sha256")
+        require(type(size) is int and size >= 0 and isinstance(digest, str)
+                and re.fullmatch(r"[0-9a-f]{64}", digest) is not None and row.get("changes") == "none",
+                "OPEN_METHODS_METADATA", public)
+        require(original in legacy, "OPEN_METHODS_ORIGINAL_MISSING", public)
+        require(digest == legacy[original]["sha256"] and size == int(legacy[original]["bytes"]),
+                "OPEN_METHODS_LEGACY_MISMATCH", public)
+        require(public in files, "OPEN_METHODS_FILE_NOT_TRACKED", public)
+        require(files[public] == digest, "OPEN_METHODS_HASH_MISMATCH", public)
+        require((repo.root / public).stat().st_size == size, "OPEN_METHODS_SIZE_MISMATCH", public)
+    require(public_paths == {path for path in files if path.startswith("methods/inherited/")},
+            "OPEN_METHODS_COVERAGE")
+    return len(rows)
+
+
 def validate_records(repo, files):
     def load(name):
         require(name in files, "REQUIRED_RECORD_NOT_TRACKED", name)
@@ -219,6 +256,7 @@ def validate_records(repo, files):
         manifest = list(csv.DictReader(handle))
     require(len(manifest) == len({row["path"] for row in manifest}) == 36839, "INHERITED_MANIFEST_COUNT")
     require(sum(int(row["bytes"]) for row in manifest) == imported["original_workspace_bytes"], "INHERITED_MANIFEST_BYTES")
+    methods = validate_open_methods(repo, files, manifest)
     counts = load("data/pause-counts.json")
     pause = load("data/pause-state.json")
     require(counts["pass_A_saved"] == counts["pass_B_saved"] == 18976, "INITIAL_COVERAGE")
@@ -229,7 +267,7 @@ def validate_records(repo, files):
     authorization = load("provenance/publication-authorization.json")
     require(authorization["repository_publication_authorized"] and not authorization["scientific_screening_resume_authorized"], "AUTHORIZATION_SCOPE")
     require(SAFE_IMPORT in set(repo.git("rev-list", "--all", "HEAD").decode().splitlines()), "SAFE_IMPORT_NOT_PRESERVED")
-    return len(copies), len(manifest)
+    return len(copies), len(manifest), methods
 
 
 def main(argv=None):
@@ -243,11 +281,12 @@ def main(argv=None):
     repo = Repository(args.repo)
     tree = repo.git("write-tree").decode().strip() if args.staged else "HEAD"
     files, history = audit_boundary(repo, tree)
-    copies, manifest = validate_records(repo, files)
+    copies, manifest, methods = validate_records(repo, files)
     result = {"format": "medical-xr-public-check/2", "checked_at_utc": dt.datetime.now(dt.timezone.utc).isoformat(),
               "performed_by": "Publication checker; automated software check, not human scientific verification",
               "result": "PASS", "inspected_tree": tree, "public_files": len(files),
-              "public_unchanged_code_copies": copies, "inherited_manifest_files": manifest, **history,
+              "public_unchanged_code_copies": copies, "public_unchanged_method_copies": methods,
+              "inherited_manifest_files": manifest, **history,
               "original_safe_import_preserved": True, "excerpt_bearing_blob_absent": True,
               "controlled_draft_commits_absent": True, "screening_state": "PAUSED",
               "human_verification": "PENDING", "file_sha256": {k: v for k, v in files.items() if k != "provenance/publication-check.json"},
