@@ -2,6 +2,8 @@
 
 Status: **13 November 2026 clarification draft for human scientific review.** It develops the inherited codebook; it is not a prespecified analysis, completed extraction or amendment to saved screening decisions. No acceleration result has been calculated.
 
+The [proposed feasibility milestone](../docs/feasibility-milestone.md) makes the next decision concrete: one small human-reviewed chain and a comparison/ascertainment audit, with insufficient evidence to determine acceleration as an acceptable result. Its proposed analysis rules remain pending human review.
+
 The interpretation unit is a dated capability/configuration performing a medical task under stated conditions. Link reports, versions, study populations and deployments before counting independent evidence. Keep technical performance, clinical usefulness and implementation separate.
 
 | Construct | Proposed observation | Evidence needed | Insufficient evidence |
