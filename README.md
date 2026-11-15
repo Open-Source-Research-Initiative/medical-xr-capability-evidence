@@ -19,7 +19,7 @@ This question is locked. The work synthesizes published evidence and technology 
 - **Contribute a human check:** follow the [source verification procedure](docs/human-verification.md) and the [bounded source-check task](https://github.com/Open-Source-Research-Initiative/medical-xr-capability-evidence/issues/1). Prior AI exposure must be disclosed. The first example does not establish accuracy.
 - **Use the record:** see [licenses](LICENSE.md), [controlled access and restoration](data/README.md), and [public contribution checks](docs/publication-checks.md).
 
-Human lead: **Cole / @ajhcs**. OSRI areas: Healthcare, Engineering, Informatics and Economics. Proposed ID: **OSRI-0001**, pending administrator acceptance of the project-register PR. Human-driven Agentic-Powered-Research.
+Human lead: **Cole / @ajhcs**. OSRI areas: Healthcare, Engineering, Informatics and Economics. Registered project ID: **[OSRI-0001](https://github.com/Open-Source-Research-Initiative/osri/blob/8631564e6b6604fdcc1f9b8a57595c2fd8b0f66b/projects/projects.csv)**. Human-driven Agentic-Powered-Research.
 
 ## Evidence and limits
 
