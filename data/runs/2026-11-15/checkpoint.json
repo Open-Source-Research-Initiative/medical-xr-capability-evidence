@@ -1,0 +1,97 @@
+{
+  "format": "medical-xr-public-resumed-checkpoint/1",
+  "checkpoint_date": "2026-11-15",
+  "state": "ACTIVE_PROVISIONAL_AI_SCREENING",
+  "responsible_human": "Cole / @ajhcs",
+  "authorization": {
+    "resume_from": "B0183 / source audit 0217",
+    "replacement_adjudicator_explicitly_authorized": true,
+    "persistent_goal_explicitly_requested": true,
+    "scientific_conclusions_accepted": false,
+    "human_verification": "PENDING"
+  },
+  "reviewer": {
+    "identity": "Adjudicator_Sol_resume_20261115",
+    "configured_model": "gpt-6.1-sol",
+    "runtime_build": "UNKNOWN",
+    "former_actor_preserved": true,
+    "original_initial_owners_replaced": false
+  },
+  "methods": {
+    "screening": "0.4.6",
+    "addenda": [
+      "01",
+      "02",
+      "03",
+      "04"
+    ],
+    "capability_codebook": "0.2",
+    "osri_version": "0.1.0",
+    "osri_commit": "8c39a0a36c0e962060659b1d51f666c367f9464a"
+  },
+  "counts": {
+    "inventory_n": 18976,
+    "pass_A_saved": 18976,
+    "pass_B_saved": 18976,
+    "adjudicated_n": 9326,
+    "adjudication_pending": 9650,
+    "required_audits_unperformed": 9366,
+    "fresh_legacy_rechecks_sol_consideration_pending": 88,
+    "self_detected_rechecks_pending": 416,
+    "mandatory_operational_audits_pending": 5,
+    "goal_complete": false,
+    "human_verified": 0
+  },
+  "canonical_generated_at_utc": "2026-11-15T20:18:42.837641+00:00",
+  "local_evidence": {
+    "manifest_sha256": "96807bb6e451a1b175658f3991e35fdb69d2f3fcdb0e8f7cf3c94b9cdc761bd2",
+    "checkpoint_sha256": "f1e33be9b1a2dc56b0816d29ea7d116d9dec173b0c2a86c64f342a70fb41cb73",
+    "manifest_validation": {
+      "hashed_paths_verified": 22677,
+      "errors": 0,
+      "scope": "Mechanical snapshot integrity and exact coverage only; not scientific accuracy or human verification."
+    },
+    "original_initial_pass_sha256": {
+      "A": "39a1a574d6f174c2d97d6d58551f5aec0a238253290c73f8215895d87fe42bc5",
+      "B": "7015dabfc66b7b269856e00f1f60607b1586dc7e6cbb252af2d87e8ea18c60f7"
+    },
+    "new_batches": [
+      {
+        "batch": "B0183",
+        "n": 50,
+        "base_sha256": "d4b2290cb51425f6df5eca01107bbea83b6e9da69f4a76ed4492bfc1c8a2a474",
+        "receipt_sha256": "47e4d27f4488b440099a6257c56d9f597986eb5d0b30226a31f3467e527c55c6"
+      },
+      {
+        "batch": "B0184",
+        "n": 50,
+        "base_sha256": "67e8ae88fda5c6fc32e8257e4e7c4721cfc0742c5c6e5ba90a9f347d9ab27be4",
+        "receipt_sha256": "ba1fcfccf7ef68f21d5173dfa859811eac07155893a7bd1c9c7748d169a32826"
+      }
+    ],
+    "new_source_audits": [
+      {
+        "sequence": "0217",
+        "publication_ids": [
+          "P0009143"
+        ],
+        "receipt_sha256": "505a437ab6c93098aad016d55ef10b431e51f90f637cf0eaab0e00292a4416cb"
+      }
+    ]
+  },
+  "public_data_scope": {
+    "frozen_archive_date": "2026-11-13",
+    "frozen_adjudications": 9226,
+    "release_tag": "evidence-2026-11-13",
+    "resumed_raw_artifacts_in_frozen_release": false,
+    "resumed_decisions_in_data_open": false,
+    "new_artifact_package_publication": "PENDING_SEPARATE_REVIEW"
+  },
+  "limitations": [
+    "A dated checkpoint, not a live counter.",
+    "All decisions are provisional AI assessments; INCLUDE advances later full-text assessment.",
+    "Local raw artifacts and new integration helpers are not yet supplied in the frozen public release; hashes alone do not enable reconstruction.",
+    "Pending queues overlap. Source-limited uncertainty and all unperformed audits remain visible.",
+    "Repository acceptance, human scientific verification and external peer review are separate."
+  ]
+}

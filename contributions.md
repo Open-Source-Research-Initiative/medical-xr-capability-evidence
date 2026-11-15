@@ -1,5 +1,11 @@
 # Credit and material assistance
 
+## Scientific resumption, 15 November 2026
+
+Cole authorized continued screening, a new Sol actor with documented provenance and a persistent goal for the remaining screening and prescribed audits. The new actor Adjudicator_Sol_resume_20261115, configured gpt-6.1-sol with runtime build unknown, reads full assigned frozen source records and both complete original pass records. It saves provisional decisions, literal source support, actual retrieval extents and unresolved limitations in new immutable artifacts. It does not claim continuity with the former actor or human review. Original owners, labels, samples and source memberships remain unchanged.
+
+The Codex coordinator prepared separately versioned identity-aware integration, pinned historical artifacts, compared old/new derived views, performed targeted exposed source checks, and reconciled completed batches against the unchanged manifest validator. No additional initial workers were started. The [dated resumed-run checkpoint](docs/active-screening.md) records actual coverage, checks and publication limits. Agent agreement and structural validation do not establish scientific accuracy. The public November 13 data remain frozen, and human verification remains zero.
+
 ## New collaborator review, 15 November 2026
 
 Cole requested a review and fixes for project, data and contribution clarity. Codex reviewed the live public README, data pages, contribution issue and release navigation, then prepared targeted documentation edits, starter/data guides, a read-only publication lookup and contribution templates. The edit-with-purpose and write-with-purpose skills informed the edits and reader checks. This was a review by the current coordinator, not a fresh independent agent or scientific validation; no subagents were used. Original data, methods, code copies and pause state remain unchanged. Actual checks are reported in the pull request; no new human source result is claimed.

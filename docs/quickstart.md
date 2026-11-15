@@ -1,6 +1,6 @@
 # Start here: read, explore or contribute
 
-This project maps how XR and related 3D/AI capabilities become useful, sustainable medical applications. Its data and methods are public. The evidence review is unfinished: initial AI assessments exist for all 18,976 publication groups, source adjudication covers 9,226, and no completed human verification is documented. Scientific screening is paused; documentation, tooling and methods feedback are welcome.
+This project maps how XR and related 3D/AI capabilities become useful, sustainable medical applications. Its data and methods are public. The evidence review is unfinished: initial AI assessments exist for all 18,976 publication groups, and no completed human verification is documented. [AI source adjudication resumed on 15 November](active-screening.md); the public archive and 43 tables remain the [frozen November 13 snapshot](checkpoint.md). Documentation, tooling and methods feedback are welcome.
 
 **Planning a human source check?** Read [the source-first procedure](human-verification.md) before opening AI examples, decision tables or the full archive. Reading those decisions affects what you can later describe as blinded review. You can still help if already exposed; disclose it.
 
@@ -26,7 +26,7 @@ python scripts/verify_open_data.py
 
 If your Python command is `python3` or `py -3`, substitute it for `python` throughout. Check that its version is at least 3.12. Run repository-relative commands from the directory containing this project's README and `scripts/` folder.
 
-The verifier should print `"result": "PASS"`, 43 metadata tables, 18,976 frozen IDs and 9,226 adjudicated records. It checks file integrity and coverage, not scientific accuracy.
+The verifier should print `"result": "PASS"`, 43 metadata tables, 18,976 frozen IDs and 9,226 adjudicated records. Those counts and its `PAUSED` state describe the November 13 snapshot, not the resumed run. It checks file integrity and coverage, not scientific accuracy.
 
 To inspect existing AI decisions for one group, run:
 

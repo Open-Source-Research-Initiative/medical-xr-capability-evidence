@@ -1,6 +1,6 @@
 # Public data and evidence
 
-The project data is available publicly, without an invitation or private-repository access. The preserved snapshot is dated **13 November 2026**; this public data release was prepared on **15 November 2026**. Screening remains paused after B0182/source audit 0216, and documented human verification remains zero.
+The project data is available publicly, without an invitation or private-repository access. The preserved snapshot is dated **13 November 2026**; this public data release was prepared on **15 November 2026**. It records the pause after B0182/source audit 0216. [AI screening subsequently resumed](../docs/active-screening.md); the archive and tables below do not contain that later work. Documented human verification remains zero.
 
 ## Browse the data
 
@@ -40,7 +40,7 @@ From the restored workspace, the inherited read-only structural check is:
 python -X utf8 work/screening_qa/validate_resume_manifest.py
 ```
 
-Same-machine restoration previously passed all 36,839 archive hashes and the 22,601-path inherited validator. Cross-machine reproduction of the original analysis remains unperformed. Copied historical scripts depend on the original layout. Some publication scripts and the watcher mutate research outputs; do not run those while screening is paused.
+Same-machine restoration previously passed all 36,839 archive hashes and the 22,601-path inherited validator. Cross-machine reproduction of the original analysis remains unperformed. Copied historical scripts depend on the original layout. Some publication scripts and the watcher mutate research outputs. The old watcher assumes the former reviewer and remains stopped; use the public read-only tools to explore this snapshot.
 
 ## Reuse and provenance
 
