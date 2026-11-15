@@ -1,0 +1,26 @@
+name: Join the project
+description: Offer help or propose a bounded contribution to OSRI-0001.
+title: "Collaboration: "
+body:
+  - type: markdown
+    attributes:
+      value: "Read the README, current pause state, and docs/join-the-project.md first. Public reading and forking require no invitation. Avoid personal contact details and credentials."
+  - type: textarea
+    id: interests
+    attributes:
+      label: Interests and relevant experience
+      description: Describe the part of the project you would like to help with.
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: Proposed task and availability
+      description: Suggest a bounded task or ask Cole to help identify one. Scientific screening is paused.
+    validations:
+      required: true
+  - type: textarea
+    id: exposure
+    attributes:
+      label: Prior exposure and assistance
+      description: For source-review work, disclose AI decisions or archive material already viewed, and any agent assistance you expect to use.

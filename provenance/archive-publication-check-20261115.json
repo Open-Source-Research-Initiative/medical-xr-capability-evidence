@@ -1,0 +1,20 @@
+{
+  "format": "medical-xr-archive-publication-check/1",
+  "checked_on": "2026-11-15",
+  "performed_by": "Codex automated archive/hash and bounded credential checks",
+  "archive_sha256": "31bb771230857c4eb4dd0a7d3d0fff8861d7fa996f3de9a02b36f746569396bb",
+  "manifest_sha256": "c8a2c4f46b7d21a89c7eb624c289b0cb909c2eb73bebbac3292ea9135c68acde",
+  "files": 36839,
+  "uncompressed_bytes": 853955550,
+  "verification_errors": [],
+  "credential_pattern_findings": [],
+  "rules": [
+    "github_token",
+    "openai_key",
+    "aws_key",
+    "private_key",
+    "credential_in_url"
+  ],
+  "rights_basis": "Human lead confirmed on 2026-11-15 that records, exports and bulk materials are OK for public sharing. Third-party notices and terms remain applicable.",
+  "limits": "Automated byte/hash and bounded pattern checks; not exhaustive secret detection, independent license verification or scientific validation."
+}

@@ -1,0 +1,477 @@
+publication_id,doi_conflict,source_memberships_json,record_ids_json,human_verification
+P0010097,0,"[""EBSCOhost""]","[""F02-R005365""]",PENDING
+P0017850,0,"[""Web of Science""]","[""F14-R000187""]",PENDING
+P0002525,0,"[""ProQuest"",""Web of Science""]","[""F01-R002589"",""F04-R000048""]",PENDING
+P0007601,0,"[""EBSCOhost""]","[""F02-R001714""]",PENDING
+P0012223,1,"[""Web of Science""]","[""F04-R000990""]",PENDING
+P0013440,1,"[""Web of Science""]","[""F06-R000970""]",PENDING
+P0014352,1,"[""Web of Science""]","[""F08-R000491""]",PENDING
+P0013524,1,"[""Web of Science""]","[""F07-R000109""]",PENDING
+P0013668,1,"[""Web of Science""]","[""F07-R000349""]",PENDING
+P0011747,1,"[""Web of Science""]","[""F04-R000227""]",PENDING
+P0012120,1,"[""Web of Science""]","[""F04-R000820""]",PENDING
+P0011146,1,"[""Web of Science""]","[""F03-R000242""]",PENDING
+P0012386,1,"[""Web of Science""]","[""F05-R000238""]",PENDING
+P0018182,1,"[""Web of Science""]","[""F14-R000717""]",PENDING
+P0011700,1,"[""Web of Science""]","[""F04-R000140""]",PENDING
+P0012103,1,"[""Web of Science""]","[""F04-R000795""]",PENDING
+P0013554,1,"[""Web of Science""]","[""F07-R000160""]",PENDING
+P0017589,1,"[""Web of Science""]","[""F13-R000767""]",PENDING
+P0010998,1,"[""Web of Science""]","[""F03-R000016"",""F16-R000016""]",PENDING
+P0011614,1,"[""Web of Science""]","[""F03-R000999""]",PENDING
+P0012335,1,"[""Web of Science""]","[""F05-R000158""]",PENDING
+P0016481,1,"[""Web of Science""]","[""F11-R000932""]",PENDING
+P0016926,1,"[""Web of Science""]","[""F12-R000663""]",PENDING
+P0008645,0,"[""EBSCOhost""]","[""F02-R003458""]",PENDING
+P0014794,0,"[""Web of Science""]","[""F09-R000197""]",PENDING
+P0003294,0,"[""ProQuest""]","[""F01-R003380""]",PENDING
+P0011212,0,"[""Web of Science""]","[""F03-R000347""]",PENDING
+P0004191,0,"[""ProQuest""]","[""F01-R004292""]",PENDING
+P0018046,0,"[""Web of Science""]","[""F14-R000503""]",PENDING
+P0005470,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R005587"",""F02-R004383""]",PENDING
+P0016052,0,"[""Web of Science""]","[""F11-R000296""]",PENDING
+P0004860,0,"[""ProQuest""]","[""F01-R004967""]",PENDING
+P0008458,0,"[""EBSCOhost"",""Web of Science""]","[""F02-R003174"",""F05-R000802""]",PENDING
+P0004582,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R004687"",""F02-R003483""]",PENDING
+P0013667,0,"[""Web of Science""]","[""F07-R000348""]",PENDING
+P0004060,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R004161"",""F02-R003119""]",PENDING
+P0011439,0,"[""Web of Science""]","[""F03-R000727""]",PENDING
+P0004946,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R005053"",""F02-R003117""]",PENDING
+P0016605,0,"[""Web of Science""]","[""F12-R000122""]",PENDING
+P0005493,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R005610"",""F02-R001280""]",PENDING
+P0017025,0,"[""Web of Science""]","[""F12-R000854""]",PENDING
+P0005768,0,"[""ProQuest""]","[""F01-R005891""]",PENDING
+P0013077,0,"[""Web of Science""]","[""F06-R000382""]",PENDING
+P0009493,0,"[""EBSCOhost""]","[""F02-R004614""]",PENDING
+P0011495,0,"[""Web of Science""]","[""F03-R000817""]",PENDING
+P0006546,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R006704"",""F02-R004149""]",PENDING
+P0018935,0,"[""Web of Science""]","[""F15-R000936""]",PENDING
+P0006458,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R006604"",""F02-R003539""]",PENDING
+P0015592,0,"[""Web of Science""]","[""F10-R000540""]",PENDING
+P0004954,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R005061"",""F02-R000623""]",PENDING
+P0011320,0,"[""Web of Science""]","[""F03-R000538""]",PENDING
+P0000209,0,"[""ProQuest""]","[""F01-R000213""]",PENDING
+P0011431,0,"[""Web of Science""]","[""F03-R000715""]",PENDING
+P0004117,0,"[""ProQuest""]","[""F01-R004218""]",PENDING
+P0018829,0,"[""Web of Science""]","[""F15-R000768""]",PENDING
+P0003180,0,"[""ProQuest""]","[""F01-R003261""]",PENDING
+P0015538,0,"[""Web of Science""]","[""F10-R000456""]",PENDING
+P0005727,0,"[""ProQuest""]","[""F01-R005849""]",PENDING
+P0015765,0,"[""Web of Science""]","[""F10-R000828""]",PENDING
+P0001729,0,"[""ProQuest"",""Web of Science""]","[""F01-R001761"",""F12-R000502""]",PENDING
+P0007085,0,"[""EBSCOhost""]","[""F02-R000877""]",PENDING
+P0007581,0,"[""EBSCOhost""]","[""F02-R001680""]",PENDING
+P0012933,0,"[""Web of Science""]","[""F06-R000146""]",PENDING
+P0006488,0,"[""ProQuest""]","[""F01-R006640""]",PENDING
+P0008945,0,"[""EBSCOhost""]","[""F02-R003921""]",PENDING
+P0017250,0,"[""Web of Science""]","[""F13-R000229""]",PENDING
+P0006526,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R006681"",""F02-R001240""]",PENDING
+P0013486,0,"[""Web of Science""]","[""F07-R000045""]",PENDING
+P0005560,0,"[""ProQuest""]","[""F01-R005682""]",PENDING
+P0015895,0,"[""Web of Science""]","[""F11-R000035""]",PENDING
+P0009085,0,"[""EBSCOhost""]","[""F02-R004099""]",PENDING
+P0013732,0,"[""Web of Science""]","[""F07-R000446""]",PENDING
+P0005302,0,"[""ProQuest""]","[""F01-R005412""]",PENDING
+P0013958,0,"[""Web of Science""]","[""F07-R000822""]",PENDING
+P0004391,0,"[""ProQuest""]","[""F01-R004495""]",PENDING
+P0014115,0,"[""Web of Science""]","[""F08-R000067""]",PENDING
+P0004570,0,"[""ProQuest""]","[""F01-R004675""]",PENDING
+P0012438,0,"[""Web of Science""]","[""F05-R000326""]",PENDING
+P0003094,0,"[""ProQuest""]","[""F01-R003174""]",PENDING
+P0012181,0,"[""Web of Science""]","[""F04-R000924""]",PENDING
+P0001922,0,"[""ProQuest""]","[""F01-R001959""]",PENDING
+P0008013,0,"[""EBSCOhost""]","[""F02-R002407""]",PENDING
+P0000076,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R000077"",""F02-R004245""]",PENDING
+P0018720,0,"[""Web of Science""]","[""F15-R000578""]",PENDING
+P0002980,0,"[""ProQuest""]","[""F01-R003055""]",PENDING
+P0011577,0,"[""Web of Science""]","[""F03-R000948""]",PENDING
+P0005724,0,"[""ProQuest""]","[""F01-R005846""]",PENDING
+P0013312,0,"[""Web of Science""]","[""F06-R000762""]",PENDING
+P0004825,0,"[""ProQuest""]","[""F01-R004931""]",PENDING
+P0013870,0,"[""Web of Science""]","[""F07-R000694""]",PENDING
+P0005908,0,"[""ProQuest""]","[""F01-R006031""]",PENDING
+P0018246,0,"[""Web of Science""]","[""F14-R000815""]",PENDING
+P0000470,0,"[""ProQuest""]","[""F01-R000476""]",PENDING
+P0007327,0,"[""EBSCOhost"",""Web of Science""]","[""F02-R001272"",""F09-R000451""]",PENDING
+P0000735,0,"[""ProQuest""]","[""F01-R000743""]",PENDING
+P0013728,0,"[""Web of Science""]","[""F07-R000441""]",PENDING
+P0004842,0,"[""ProQuest""]","[""F01-R004948""]",PENDING
+P0008818,0,"[""EBSCOhost""]","[""F02-R003726""]",PENDING
+P0005909,0,"[""ProQuest""]","[""F01-R006032""]",PENDING
+P0018081,0,"[""Web of Science""]","[""F14-R000549""]",PENDING
+P0003513,0,"[""ProQuest""]","[""F01-R003602""]",PENDING
+P0014535,0,"[""Web of Science""]","[""F08-R000788""]",PENDING
+P0003321,0,"[""ProQuest""]","[""F01-R003407""]",PENDING
+P0013936,0,"[""Web of Science""]","[""F07-R000793""]",PENDING
+P0005220,0,"[""ProQuest""]","[""F01-R005328""]",PENDING
+P0012239,0,"[""Web of Science""]","[""F05-R000016""]",PENDING
+P0005774,0,"[""ProQuest""]","[""F01-R005897""]",PENDING
+P0007466,0,"[""EBSCOhost""]","[""F02-R001495""]",PENDING
+P0005613,0,"[""ProQuest""]","[""F01-R005735""]",PENDING
+P0012433,0,"[""Web of Science""]","[""F05-R000319""]",PENDING
+P0002206,0,"[""ProQuest""]","[""F01-R002248""]",PENDING
+P0014839,0,"[""Web of Science""]","[""F09-R000292""]",PENDING
+P0003484,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R003572"",""F02-R006103""]",PENDING
+P0011988,0,"[""Web of Science""]","[""F04-R000626""]",PENDING
+P0008531,0,"[""EBSCOhost""]","[""F02-R003277""]",PENDING
+P0014776,0,"[""Web of Science""]","[""F09-R000170""]",PENDING
+P0010745,0,"[""EBSCOhost""]","[""F02-R006127""]",PENDING
+P0017955,0,"[""Web of Science""]","[""F14-R000349""]",PENDING
+P0003500,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R003589"",""F02-R006130""]",PENDING
+P0018442,0,"[""Web of Science""]","[""F15-R000127""]",PENDING
+P0010915,0,"[""EBSCOhost""]","[""F02-R006309""]",PENDING
+P0014045,0,"[""Web of Science""]","[""F07-R000951""]",PENDING
+P0010129,0,"[""EBSCOhost""]","[""F02-R005409""]",PENDING
+P0013968,0,"[""Web of Science""]","[""F07-R000833""]",PENDING
+P0009776,0,"[""EBSCOhost""]","[""F02-R004950"",""F02-R004951""]",PENDING
+P0014521,0,"[""Web of Science""]","[""F08-R000765""]",PENDING
+P0009961,0,"[""EBSCOhost""]","[""F02-R005183"",""F02-R005184""]",PENDING
+P0013088,0,"[""Web of Science""]","[""F06-R000406""]",PENDING
+P0010408,0,"[""EBSCOhost""]","[""F02-R005757""]",PENDING
+P0015223,0,"[""Web of Science""]","[""F09-R000956""]",PENDING
+P0008873,0,"[""EBSCOhost""]","[""F02-R003805""]",PENDING
+P0012282,0,"[""Web of Science""]","[""F05-R000081""]",PENDING
+P0010605,0,"[""EBSCOhost""]","[""F02-R005977""]",PENDING
+P0011756,0,"[""Web of Science""]","[""F04-R000242""]",PENDING
+P0010330,0,"[""EBSCOhost""]","[""F02-R005667""]",PENDING
+P0016529,0,"[""Web of Science""]","[""F12-R000005""]",PENDING
+P0009794,0,"[""EBSCOhost""]","[""F02-R004974""]",PENDING
+P0011188,0,"[""Web of Science""]","[""F03-R000311""]",PENDING
+P0009819,0,"[""EBSCOhost""]","[""F02-R005007""]",PENDING
+P0014648,0,"[""Web of Science""]","[""F08-R000969""]",PENDING
+P0009697,0,"[""EBSCOhost""]","[""F02-R004861""]",PENDING
+P0015357,0,"[""Web of Science""]","[""F10-R000169""]",PENDING
+P0009851,0,"[""EBSCOhost""]","[""F02-R005046""]",PENDING
+P0014933,0,"[""Web of Science""]","[""F09-R000449""]",PENDING
+P0005829,0,"[""ProQuest""]","[""F01-R005952""]",PENDING
+P0010464,0,"[""EBSCOhost""]","[""F02-R005823""]",PENDING
+P0003065,0,"[""ProQuest""]","[""F01-R003144""]",PENDING
+P0010541,0,"[""EBSCOhost""]","[""F02-R005910""]",PENDING
+P0006138,0,"[""ProQuest""]","[""F01-R006263""]",PENDING
+P0010533,0,"[""EBSCOhost""]","[""F02-R005901""]",PENDING
+P0005812,0,"[""ProQuest""]","[""F01-R005935""]",PENDING
+P0010616,0,"[""EBSCOhost""]","[""F02-R005989""]",PENDING
+P0003212,0,"[""ProQuest""]","[""F01-R003296""]",PENDING
+P0010542,0,"[""EBSCOhost""]","[""F02-R005911""]",PENDING
+P0000804,0,"[""ProQuest""]","[""F01-R000814""]",PENDING
+P0011829,0,"[""Web of Science""]","[""F04-R000360""]",PENDING
+P0010127,0,"[""EBSCOhost""]","[""F02-R005406""]",PENDING
+P0017721,0,"[""Web of Science""]","[""F13-R000989""]",PENDING
+P0009609,0,"[""EBSCOhost""]","[""F02-R004747""]",PENDING
+P0013901,0,"[""Web of Science""]","[""F07-R000742""]",PENDING
+P0007474,0,"[""EBSCOhost""]","[""F02-R001508"",""F02-R002662""]",PENDING
+P0017069,0,"[""Web of Science""]","[""F12-R000923""]",PENDING
+P0008213,0,"[""EBSCOhost""]","[""F02-R002750""]",PENDING
+P0018589,0,"[""Web of Science""]","[""F15-R000358""]",PENDING
+P0007763,0,"[""EBSCOhost""]","[""F02-R001984""]",PENDING
+P0013264,0,"[""Web of Science""]","[""F06-R000693""]",PENDING
+P0007109,0,"[""EBSCOhost""]","[""F02-R000915""]",PENDING
+P0016765,0,"[""Web of Science""]","[""F12-R000394""]",PENDING
+P0010164,0,"[""EBSCOhost""]","[""F02-R005448""]",PENDING
+P0013917,0,"[""Web of Science""]","[""F07-R000764""]",PENDING
+P0009100,0,"[""EBSCOhost""]","[""F02-R004126""]",PENDING
+P0015182,0,"[""Web of Science""]","[""F09-R000893""]",PENDING
+P0005141,0,"[""ProQuest""]","[""F01-R005249""]",PENDING
+P0006731,0,"[""EBSCOhost""]","[""F02-R000281""]",PENDING
+P0008710,0,"[""EBSCOhost""]","[""F02-R003574""]",PENDING
+P0018908,0,"[""Web of Science""]","[""F15-R000891""]",PENDING
+P0008208,0,"[""EBSCOhost""]","[""F02-R002740""]",PENDING
+P0017796,0,"[""Web of Science""]","[""F14-R000105""]",PENDING
+P0007394,0,"[""EBSCOhost""]","[""F02-R001367""]",PENDING
+P0013374,0,"[""Web of Science""]","[""F06-R000866""]",PENDING
+P0007266,0,"[""EBSCOhost""]","[""F02-R001175""]",PENDING
+P0011867,0,"[""Web of Science""]","[""F04-R000425""]",PENDING
+P0008067,0,"[""EBSCOhost""]","[""F02-R002504""]",PENDING
+P0014343,0,"[""Web of Science""]","[""F08-R000471""]",PENDING
+P0006837,0,"[""EBSCOhost""]","[""F02-R000460""]",PENDING
+P0014673,0,"[""Web of Science""]","[""F09-R000009""]",PENDING
+P0008635,0,"[""EBSCOhost""]","[""F02-R003445""]",PENDING
+P0013553,0,"[""Web of Science""]","[""F07-R000157""]",PENDING
+P0002132,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R002172"",""F02-R005191""]",PENDING
+P0015189,0,"[""Web of Science""]","[""F09-R000905""]",PENDING
+P0004213,0,"[""ProQuest""]","[""F01-R004315""]",PENDING
+P0012362,0,"[""Web of Science""]","[""F05-R000205""]",PENDING
+P0003333,0,"[""ProQuest""]","[""F01-R003419""]",PENDING
+P0012369,0,"[""Web of Science""]","[""F05-R000215""]",PENDING
+P0003649,0,"[""ProQuest""]","[""F01-R003742""]",PENDING
+P0011950,0,"[""Web of Science""]","[""F04-R000552""]",PENDING
+P0003609,0,"[""ProQuest""]","[""F01-R003701""]",PENDING
+P0017515,0,"[""Web of Science""]","[""F13-R000664""]",PENDING
+P0001944,0,"[""ProQuest""]","[""F01-R001982""]",PENDING
+P0011630,0,"[""Web of Science""]","[""F04-R000021""]",PENDING
+P0002133,0,"[""ProQuest""]","[""F01-R002173""]",PENDING
+P0014135,0,"[""Web of Science""]","[""F08-R000103""]",PENDING
+P0003189,0,"[""ProQuest""]","[""F01-R003270""]",PENDING
+P0018879,0,"[""Web of Science""]","[""F15-R000843""]",PENDING
+P0002718,0,"[""ProQuest""]","[""F01-R002787""]",PENDING
+P0015958,0,"[""Web of Science""]","[""F11-R000149""]",PENDING
+P0007040,0,"[""EBSCOhost""]","[""F02-R000805""]",PENDING
+P0015473,0,"[""Web of Science""]","[""F10-R000344""]",PENDING
+P0009387,0,"[""EBSCOhost""]","[""F02-R004488""]",PENDING
+P0011957,0,"[""Web of Science""]","[""F04-R000567""]",PENDING
+P0002845,0,"[""ProQuest"",""Web of Science""]","[""F01-R002916"",""F08-R000274""]",PENDING
+P0010092,0,"[""EBSCOhost""]","[""F02-R005358""]",PENDING
+P0001988,0,"[""ProQuest"",""Web of Science""]","[""F01-R002026"",""F14-R000605""]",PENDING
+P0009563,0,"[""EBSCOhost""]","[""F02-R004698""]",PENDING
+P0007305,0,"[""EBSCOhost""]","[""F02-R001237""]",PENDING
+P0018717,0,"[""Web of Science""]","[""F15-R000575""]",PENDING
+P0001777,0,"[""ProQuest""]","[""F01-R001810""]",PENDING
+P0014962,0,"[""Web of Science""]","[""F09-R000510""]",PENDING
+P0001398,0,"[""ProQuest""]","[""F01-R001420""]",PENDING
+P0009353,0,"[""EBSCOhost"",""Web of Science""]","[""F02-R004451"",""F06-R000976""]",PENDING
+P0004550,0,"[""ProQuest""]","[""F01-R004655""]",PENDING
+P0008846,0,"[""EBSCOhost""]","[""F02-R003757""]",PENDING
+P0008522,0,"[""EBSCOhost""]","[""F02-R003260""]",PENDING
+P0011511,0,"[""Web of Science""]","[""F03-R000847""]",PENDING
+P0006960,0,"[""EBSCOhost""]","[""F02-R000659""]",PENDING
+P0012995,0,"[""Web of Science""]","[""F06-R000241""]",PENDING
+P0011487,0,"[""Web of Science""]","[""F03-R000804""]",PENDING
+P0012867,0,"[""Web of Science""]","[""F06-R000027""]",PENDING
+P0005898,0,"[""ProQuest""]","[""F01-R006021""]",PENDING
+P0018414,0,"[""Web of Science""]","[""F15-R000086""]",PENDING
+P0009061,0,"[""EBSCOhost""]","[""F02-R004073""]",PENDING
+P0016152,0,"[""Web of Science""]","[""F11-R000455""]",PENDING
+P0003187,0,"[""ProQuest""]","[""F01-R003268""]",PENDING
+P0010590,0,"[""EBSCOhost""]","[""F02-R005960""]",PENDING
+P0004696,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R004802"",""F02-R001253""]",PENDING
+P0012446,0,"[""Web of Science""]","[""F05-R000340""]",PENDING
+P0002966,0,"[""ProQuest""]","[""F01-R003041""]",PENDING
+P0015048,0,"[""Web of Science""]","[""F09-R000672""]",PENDING
+P0002736,0,"[""ProQuest""]","[""F01-R002807""]",PENDING
+P0012620,0,"[""Web of Science""]","[""F05-R000629""]",PENDING
+P0003072,0,"[""ProQuest""]","[""F01-R003151""]",PENDING
+P0018174,0,"[""Web of Science""]","[""F14-R000698""]",PENDING
+P0001907,0,"[""ProQuest""]","[""F01-R001943""]",PENDING
+P0013983,0,"[""Web of Science""]","[""F07-R000855""]",PENDING
+P0003000,0,"[""ProQuest""]","[""F01-R003077""]",PENDING
+P0016165,0,"[""Web of Science""]","[""F11-R000474""]",PENDING
+P0009745,0,"[""EBSCOhost""]","[""F02-R004914""]",PENDING
+P0013379,0,"[""Web of Science""]","[""F06-R000878""]",PENDING
+P0008918,0,"[""EBSCOhost""]","[""F02-R003883""]",PENDING
+P0015344,0,"[""Web of Science""]","[""F10-R000150""]",PENDING
+P0006950,0,"[""EBSCOhost""]","[""F02-R000645"",""F02-R001575""]",PENDING
+P0015480,0,"[""Web of Science""]","[""F10-R000355""]",PENDING
+P0007422,0,"[""EBSCOhost""]","[""F02-R001415""]",PENDING
+P0018729,0,"[""Web of Science""]","[""F15-R000592""]",PENDING
+P0003311,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R003397"",""F02-R005342""]",PENDING
+P0012173,0,"[""Web of Science""]","[""F04-R000912""]",PENDING
+P0001932,0,"[""ProQuest""]","[""F01-R001970""]",PENDING
+P0014507,0,"[""Web of Science""]","[""F08-R000741""]",PENDING
+P0010208,0,"[""EBSCOhost""]","[""F02-R005511""]",PENDING
+P0016677,0,"[""Web of Science""]","[""F12-R000241""]",PENDING
+P0003460,0,"[""ProQuest""]","[""F01-R003548""]",PENDING
+P0017436,0,"[""Web of Science""]","[""F13-R000538""]",PENDING
+P0006915,0,"[""EBSCOhost"",""Web of Science""]","[""F02-R000586"",""F10-R000018""]",PENDING
+P0006961,0,"[""EBSCOhost""]","[""F02-R000660""]",PENDING
+P0002259,0,"[""ProQuest""]","[""F01-R002304""]",PENDING
+P0017917,0,"[""Web of Science""]","[""F14-R000286""]",PENDING
+P0000860,0,"[""ProQuest"",""Web of Science""]","[""F01-R000870"",""F06-R000286""]",PENDING
+P0006888,0,"[""EBSCOhost""]","[""F02-R000542""]",PENDING
+P0003098,0,"[""ProQuest""]","[""F01-R003178""]",PENDING
+P0015684,0,"[""Web of Science""]","[""F10-R000687""]",PENDING
+P0005926,0,"[""ProQuest""]","[""F01-R006049""]",PENDING
+P0018359,0,"[""Web of Science""]","[""F14-R000986""]",PENDING
+P0001085,0,"[""ProQuest"",""EBSCOhost"",""Web of Science""]","[""F01-R001103"",""F02-R002548"",""F10-R000061""]",PENDING
+P0016653,0,"[""Web of Science""]","[""F12-R000200""]",PENDING
+P0007173,0,"[""EBSCOhost""]","[""F02-R001028""]",PENDING
+P0012925,0,"[""Web of Science""]","[""F06-R000131""]",PENDING
+P0000442,0,"[""ProQuest"",""Web of Science""]","[""F01-R000448"",""F03-R000837""]",PENDING
+P0008888,0,"[""EBSCOhost""]","[""F02-R003832""]",PENDING
+P0004816,0,"[""ProQuest""]","[""F01-R004922""]",PENDING
+P0008357,0,"[""EBSCOhost""]","[""F02-R002998""]",PENDING
+P0000208,0,"[""ProQuest""]","[""F01-R000212""]",PENDING
+P0012348,0,"[""Web of Science""]","[""F05-R000179""]",PENDING
+P0002656,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R002723"",""F02-R003358""]",PENDING
+P0012887,0,"[""Web of Science""]","[""F06-R000064""]",PENDING
+P0009119,0,"[""EBSCOhost""]","[""F02-R004151""]",PENDING
+P0015472,0,"[""Web of Science""]","[""F10-R000343""]",PENDING
+P0007679,0,"[""EBSCOhost""]","[""F02-R001847""]",PENDING
+P0017758,0,"[""Web of Science""]","[""F14-R000049""]",PENDING
+P0006769,0,"[""EBSCOhost""]","[""F02-R000351""]",PENDING
+P0006770,0,"[""EBSCOhost""]","[""F02-R000352""]",PENDING
+P0002500,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R002562"",""F02-R004697""]",PENDING
+P0016179,0,"[""Web of Science""]","[""F11-R000489""]",PENDING
+P0000262,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R000266"",""F02-R001426""]",PENDING
+P0011430,0,"[""Web of Science""]","[""F03-R000712""]",PENDING
+P0003453,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R003541"",""F02-R000384""]",PENDING
+P0018456,0,"[""Web of Science""]","[""F15-R000143""]",PENDING
+P0001984,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R002022"",""F02-R002356""]",PENDING
+P0013220,0,"[""Web of Science""]","[""F06-R000619""]",PENDING
+P0002852,0,"[""ProQuest""]","[""F01-R002923""]",PENDING
+P0016230,0,"[""Web of Science""]","[""F11-R000554""]",PENDING
+P0003024,0,"[""ProQuest""]","[""F01-R003103""]",PENDING
+P0016035,0,"[""Web of Science""]","[""F11-R000268""]",PENDING
+P0002950,0,"[""ProQuest""]","[""F01-R003025""]",PENDING
+P0013460,0,"[""Web of Science""]","[""F07-R000001""]",PENDING
+P0007471,0,"[""EBSCOhost""]","[""F02-R001503""]",PENDING
+P0011312,0,"[""Web of Science""]","[""F03-R000526""]",PENDING
+P0012326,1,"[""Web of Science""]","[""F05-R000146""]",PENDING
+P0013608,1,"[""Web of Science""]","[""F07-R000253""]",PENDING
+P0005645,0,"[""ProQuest""]","[""F01-R005767""]",PENDING
+P0017314,0,"[""Web of Science""]","[""F13-R000327""]",PENDING
+P0008290,0,"[""EBSCOhost""]","[""F02-R002889""]",PENDING
+P0011149,0,"[""Web of Science""]","[""F03-R000247""]",PENDING
+P0007543,0,"[""EBSCOhost""]","[""F02-R001619""]",PENDING
+P0007585,0,"[""EBSCOhost""]","[""F02-R001687""]",PENDING
+P0006789,0,"[""EBSCOhost""]","[""F02-R000382""]",PENDING
+P0006956,0,"[""EBSCOhost""]","[""F02-R000654""]",PENDING
+P0007118,0,"[""EBSCOhost""]","[""F02-R000935""]",PENDING
+P0007268,0,"[""EBSCOhost""]","[""F02-R001177""]",PENDING
+P0007281,0,"[""EBSCOhost""]","[""F02-R001199""]",PENDING
+P0008049,0,"[""EBSCOhost""]","[""F02-R002474""]",PENDING
+P0018863,0,"[""Web of Science""]","[""F15-R000818""]",PENDING
+P0008376,0,"[""EBSCOhost""]","[""F02-R003034""]",PENDING
+P0016909,0,"[""Web of Science""]","[""F12-R000634""]",PENDING
+P0006172,0,"[""ProQuest""]","[""F01-R006298""]",PENDING
+P0018596,0,"[""Web of Science""]","[""F15-R000372""]",PENDING
+P0005899,0,"[""ProQuest""]","[""F01-R006022""]",PENDING
+P0018740,0,"[""Web of Science""]","[""F15-R000614""]",PENDING
+P0002311,0,"[""ProQuest""]","[""F01-R002358""]",PENDING
+P0005775,0,"[""ProQuest""]","[""F01-R005898""]",PENDING
+P0006217,0,"[""ProQuest""]","[""F01-R006345"",""F01-R006409""]",PENDING
+P0000694,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R000701"",""F02-R000922""]",PENDING
+P0017495,0,"[""Web of Science""]","[""F13-R000628""]",PENDING
+P0000462,0,"[""ProQuest""]","[""F01-R000468""]",PENDING
+P0009981,0,"[""EBSCOhost""]","[""F02-R005210""]",PENDING
+P0001541,0,"[""ProQuest"",""Web of Science""]","[""F01-R001568"",""F07-R000376""]",PENDING
+P0010218,0,"[""EBSCOhost""]","[""F02-R005524""]",PENDING
+P0009939,0,"[""EBSCOhost""]","[""F02-R005156""]",PENDING
+P0010026,0,"[""EBSCOhost""]","[""F02-R005270""]",PENDING
+P0002456,0,"[""ProQuest""]","[""F01-R002515""]",PENDING
+P0008556,0,"[""EBSCOhost""]","[""F02-R003319""]",PENDING
+P0000399,0,"[""ProQuest""]","[""F01-R000405""]",PENDING
+P0009700,0,"[""EBSCOhost""]","[""F02-R004864""]",PENDING
+P0002120,0,"[""ProQuest"",""Web of Science""]","[""F01-R002160"",""F11-R000779""]",PENDING
+P0010052,0,"[""EBSCOhost""]","[""F02-R005305""]",PENDING
+P0001216,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R001234"",""F02-R000323""]",PENDING
+P0011282,0,"[""Web of Science""]","[""F03-R000473""]",PENDING
+P0006353,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R006489"",""F02-R002460""]",PENDING
+P0018175,0,"[""Web of Science""]","[""F14-R000701""]",PENDING
+P0000833,0,"[""ProQuest""]","[""F01-R000843""]",PENDING
+P0018276,0,"[""Web of Science""]","[""F14-R000863""]",PENDING
+P0000563,0,"[""ProQuest"",""Web of Science""]","[""F01-R000570"",""F07-R000548""]",PENDING
+P0007454,0,"[""EBSCOhost""]","[""F02-R001467""]",PENDING
+P0004649,0,"[""ProQuest""]","[""F01-R004755""]",PENDING
+P0018748,0,"[""Web of Science""]","[""F15-R000623""]",PENDING
+P0001220,0,"[""ProQuest""]","[""F01-R001238""]",PENDING
+P0015270,0,"[""Web of Science""]","[""F10-R000023""]",PENDING
+P0001520,0,"[""ProQuest""]","[""F01-R001547""]",PENDING
+P0014312,0,"[""Web of Science""]","[""F08-R000419""]",PENDING
+P0003202,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R003285"",""F02-R000546""]",PENDING
+P0012070,0,"[""Web of Science""]","[""F04-R000742""]",PENDING
+P0004739,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R004845"",""F02-R002596""]",PENDING
+P0018243,0,"[""Web of Science""]","[""F14-R000811""]",PENDING
+P0002125,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R002165"",""F02-R002096""]",PENDING
+P0016367,0,"[""Web of Science""]","[""F11-R000766""]",PENDING
+P0001178,0,"[""ProQuest""]","[""F01-R001196""]",PENDING
+P0015913,0,"[""Web of Science""]","[""F11-R000063""]",PENDING
+P0001576,0,"[""ProQuest""]","[""F01-R001603""]",PENDING
+P0017469,0,"[""Web of Science""]","[""F13-R000586""]",PENDING
+P0004575,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R004680"",""F02-R000984""]",PENDING
+P0011252,0,"[""Web of Science""]","[""F03-R000427""]",PENDING
+P0000302,0,"[""ProQuest"",""Web of Science""]","[""F01-R000307"",""F06-R000982""]",PENDING
+P0007155,0,"[""EBSCOhost""]","[""F02-R000997""]",PENDING
+P0006886,0,"[""EBSCOhost""]","[""F02-R000536""]",PENDING
+P0018343,0,"[""Web of Science""]","[""F14-R000962""]",PENDING
+P0001320,0,"[""ProQuest""]","[""F01-R001339""]",PENDING
+P0014757,0,"[""Web of Science""]","[""F09-R000138""]",PENDING
+P0003834,0,"[""ProQuest"",""Web of Science""]","[""F01-R003929"",""F14-R000746""]",PENDING
+P0007502,0,"[""EBSCOhost""]","[""F02-R001557""]",PENDING
+P0001049,0,"[""ProQuest"",""Web of Science""]","[""F01-R001065"",""F05-R000776""]",PENDING
+P0007453,0,"[""EBSCOhost""]","[""F02-R001466""]",PENDING
+P0000826,0,"[""ProQuest""]","[""F01-R000836""]",PENDING
+P0016335,0,"[""Web of Science""]","[""F11-R000717""]",PENDING
+P0007287,0,"[""EBSCOhost""]","[""F02-R001208""]",PENDING
+P0015580,0,"[""Web of Science""]","[""F10-R000523""]",PENDING
+P0010833,0,"[""EBSCOhost""]","[""F02-R006223""]",PENDING
+P0013521,0,"[""Web of Science""]","[""F07-R000105""]",PENDING
+P0003788,0,"[""ProQuest""]","[""F01-R003883""]",PENDING
+P0013498,0,"[""Web of Science""]","[""F07-R000067""]",PENDING
+P0003164,0,"[""ProQuest""]","[""F01-R003245""]",PENDING
+P0015910,0,"[""Web of Science""]","[""F11-R000058""]",PENDING
+P0008942,0,"[""EBSCOhost""]","[""F02-R003918""]",PENDING
+P0009145,0,"[""EBSCOhost""]","[""F02-R004183""]",PENDING
+P0008504,0,"[""EBSCOhost""]","[""F02-R003235""]",PENDING
+P0014793,0,"[""Web of Science""]","[""F09-R000195""]",PENDING
+P0009973,0,"[""EBSCOhost""]","[""F02-R005200""]",PENDING
+P0010118,0,"[""EBSCOhost""]","[""F02-R005395""]",PENDING
+P0006828,0,"[""EBSCOhost""]","[""F02-R000446""]",PENDING
+P0014111,0,"[""Web of Science""]","[""F08-R000060""]",PENDING
+P0009432,0,"[""EBSCOhost""]","[""F02-R004542""]",PENDING
+P0012883,0,"[""Web of Science""]","[""F06-R000053""]",PENDING
+P0009847,0,"[""EBSCOhost""]","[""F02-R005040""]",PENDING
+P0015979,0,"[""Web of Science""]","[""F11-R000185""]",PENDING
+P0009389,0,"[""EBSCOhost""]","[""F02-R004490""]",PENDING
+P0015656,0,"[""Web of Science""]","[""F10-R000644""]",PENDING
+P0009941,0,"[""EBSCOhost""]","[""F02-R005158""]",PENDING
+P0014939,0,"[""Web of Science""]","[""F09-R000465""]",PENDING
+P0008254,0,"[""EBSCOhost""]","[""F02-R002824""]",PENDING
+P0015267,0,"[""Web of Science""]","[""F10-R000020""]",PENDING
+P0008848,0,"[""EBSCOhost""]","[""F02-R003759""]",PENDING
+P0011128,0,"[""Web of Science""]","[""F03-R000218""]",PENDING
+P0010074,0,"[""EBSCOhost""]","[""F02-R005330""]",PENDING
+P0014211,0,"[""Web of Science""]","[""F08-R000240""]",PENDING
+P0009780,0,"[""EBSCOhost""]","[""F02-R004955""]",PENDING
+P0016466,0,"[""Web of Science""]","[""F11-R000913""]",PENDING
+P0009662,0,"[""EBSCOhost""]","[""F02-R004815""]",PENDING
+P0012081,0,"[""Web of Science""]","[""F04-R000754""]",PENDING
+P0010555,0,"[""EBSCOhost""]","[""F02-R005924""]",PENDING
+P0015747,0,"[""Web of Science""]","[""F10-R000798""]",PENDING
+P0008696,0,"[""EBSCOhost""]","[""F02-R003555""]",PENDING
+P0012764,0,"[""Web of Science""]","[""F05-R000853""]",PENDING
+P0010259,0,"[""EBSCOhost""]","[""F02-R005579""]",PENDING
+P0015144,0,"[""Web of Science""]","[""F09-R000833""]",PENDING
+P0009832,0,"[""EBSCOhost""]","[""F02-R005023""]",PENDING
+P0013394,0,"[""Web of Science""]","[""F06-R000904""]",PENDING
+P0008288,0,"[""EBSCOhost""]","[""F02-R002886""]",PENDING
+P0015434,0,"[""Web of Science""]","[""F10-R000290""]",PENDING
+P0010245,0,"[""EBSCOhost""]","[""F02-R005564""]",PENDING
+P0014955,0,"[""Web of Science""]","[""F09-R000493""]",PENDING
+P0009689,0,"[""EBSCOhost""]","[""F02-R004849""]",PENDING
+P0014294,0,"[""Web of Science""]","[""F08-R000386""]",PENDING
+P0002042,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R002081"",""F02-R001956""]",PENDING
+P0017473,0,"[""Web of Science""]","[""F13-R000591""]",PENDING
+P0007967,0,"[""EBSCOhost""]","[""F02-R002333""]",PENDING
+P0017078,0,"[""Web of Science""]","[""F12-R000933""]",PENDING
+P0007747,0,"[""EBSCOhost""]","[""F02-R001958""]",PENDING
+P0017524,0,"[""Web of Science""]","[""F13-R000678""]",PENDING
+P0005218,0,"[""ProQuest""]","[""F01-R005326""]",PENDING
+P0013402,0,"[""Web of Science""]","[""F06-R000916""]",PENDING
+P0000595,0,"[""ProQuest""]","[""F01-R000602""]",PENDING
+P0014435,0,"[""Web of Science""]","[""F08-R000635""]",PENDING
+P0005024,0,"[""ProQuest""]","[""F01-R005131""]",PENDING
+P0012451,0,"[""Web of Science""]","[""F05-R000348""]",PENDING
+P0001122,0,"[""ProQuest""]","[""F01-R001140""]",PENDING
+P0011922,0,"[""Web of Science""]","[""F04-R000511""]",PENDING
+P0000629,0,"[""ProQuest""]","[""F01-R000636""]",PENDING
+P0013086,0,"[""Web of Science""]","[""F06-R000400""]",PENDING
+P0007206,0,"[""EBSCOhost""]","[""F02-R001082""]",PENDING
+P0011635,0,"[""Web of Science""]","[""F04-R000028""]",PENDING
+P0005736,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R005859"",""F02-R000652""]",PENDING
+P0013186,0,"[""Web of Science""]","[""F06-R000569""]",PENDING
+P0002590,0,"[""ProQuest""]","[""F01-R002656""]",PENDING
+P0007312,0,"[""EBSCOhost""]","[""F02-R001250""]",PENDING
+P0001868,0,"[""ProQuest"",""Web of Science""]","[""F01-R001903"",""F09-R000734""]",PENDING
+P0006938,0,"[""EBSCOhost""]","[""F02-R000626""]",PENDING
+P0000072,0,"[""ProQuest"",""Web of Science""]","[""F01-R000073"",""F08-R000774""]",PENDING
+P0009860,0,"[""EBSCOhost""]","[""F02-R005055""]",PENDING
+P0002686,0,"[""ProQuest"",""EBSCOhost""]","[""F01-R002753"",""F02-R002480""]",PENDING
+P0012106,0,"[""Web of Science""]","[""F04-R000799""]",PENDING
+P0007302,0,"[""EBSCOhost""]","[""F02-R001233""]",PENDING
+P0018208,0,"[""Web of Science""]","[""F14-R000750""]",PENDING
+P0000207,0,"[""ProQuest""]","[""F01-R000211""]",PENDING
+P0006723,0,"[""EBSCOhost""]","[""F02-R000271""]",PENDING
+P0004007,0,"[""ProQuest"",""Web of Science""]","[""F01-R004106"",""F03-R000887""]",PENDING
+P0008830,0,"[""EBSCOhost""]","[""F02-R003739""]",PENDING
+P0008224,0,"[""EBSCOhost""]","[""F02-R002774""]",PENDING
+P0013887,0,"[""Web of Science""]","[""F07-R000717""]",PENDING
+P0007690,0,"[""EBSCOhost""]","[""F02-R001864""]",PENDING
+P0011481,0,"[""Web of Science""]","[""F03-R000794""]",PENDING
+P0002066,0,"[""ProQuest""]","[""F01-R002105""]",PENDING
+P0007791,0,"[""EBSCOhost""]","[""F02-R002031""]",PENDING
+P0000189,0,"[""ProQuest""]","[""F01-R000192""]",PENDING
+P0000254,0,"[""ProQuest""]","[""F01-R000258""]",PENDING
+P0000339,0,"[""ProQuest""]","[""F01-R000344""]",PENDING
+P0001899,0,"[""ProQuest""]","[""F01-R001935""]",PENDING
+P0002889,0,"[""ProQuest"",""Web of Science""]","[""F01-R002962"",""F14-R000564""]",PENDING
+P0007627,0,"[""EBSCOhost""]","[""F02-R001755""]",PENDING

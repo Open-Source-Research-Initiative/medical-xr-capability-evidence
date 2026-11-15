@@ -33,6 +33,10 @@ jobs:
         run: python -X utf8 scripts/verify_public_tree.py
       - name: Check public history with optimization
         run: python -O -X utf8 scripts/verify_public_tree.py
+      - name: Verify open data provenance and coverage
+        run: python -X utf8 scripts/verify_open_data.py
+      - name: Verify open data with optimization
+        run: python -O -X utf8 scripts/verify_open_data.py
 
   gate:
     name: Public record validation

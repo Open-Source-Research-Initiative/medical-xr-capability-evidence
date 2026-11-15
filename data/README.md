@@ -1,29 +1,51 @@
-# Data, controlled access and restoration
+# Public data and evidence
 
-The complete controlled archive preserves 36,839 original files: exports, frozen inventory, memberships, both initial passes, repairs, adjudications, source receipts, prompts, code and historical drafts. It remains unchanged. [The full file manifest](../provenance/legacy-file-manifest.csv) and [artifact checksums](../provenance/artifacts.json) identify it. File modification times are preservation metadata, not reconstructed commit dates.
+The project data is available publicly, without an invitation or private-repository access. The preserved snapshot is dated **13 November 2026**; this public data release was prepared on **15 November 2026**. Screening remains paused after B0182/source audit 0216, and documented human verification remains zero.
 
-## Public reuse
+## Browse the data
 
-The repository provides [operative methods and dictionary](../methods/README.md), count/schema records, preservation manifests, 51 unchanged historical Python files and a [runnable OA example](../examples/README.md). One excerpt-bearing helper and its containing local draft commits are withheld from public history. Original project code is MIT and prose is CC BY 4.0; [third-party exclusions](../LICENSE.md) remain.
+The [open data directory](open/README.md) contains 43 CSV tables: all 18,976 frozen publication IDs, both complete initial decision passes, 9,226 adjudicated records, source memberships, review provenance, pending queues and audit metadata. The [catalog](open/catalog.csv) lists paths, row counts, sizes, hashes and original-source mappings. The [derivation manifest](open/derivation-manifest.json) specifies every retained and omitted column from 45 original inputs.
 
-Read IDs as strings and preserve leading zeros, empty fields and qualified dates. sources.csv indexes migration guidance, not the research inventory. The blank human-verification CSV contains no completed assessments.
+Read IDs as strings and preserve leading zeros, unknown values and qualified dates. Use the [methods and dictionary](../methods/README.md) to interpret fields. `sources.csv` at the repository root indexes migration guidance; it is not the research inventory. The human-verification and feasibility templates remain blank.
 
-## Private GitHub collaboration
+## Complete evidence archive
 
-Cole selected GitHub on 13 November 2026. The private companion is [medical-xr-controlled-evidence](https://github.com/Open-Source-Research-Initiative/medical-xr-controlled-evidence). Its permitted derivatives provide all 18,976 IDs, both initial decision passes and 9,226 current adjudicated rows, with available reviewer/model identities, artifact hashes, memberships and queue metadata. The derivation manifest specifies retained and omitted fields for every source. These projections are **not** complete original evidence ledgers.
+[Download the complete evidence snapshot](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/releases/tag/evidence-2026-11-13) for all **36,839 original files**, including raw RIS exports, bulk abstracts, frozen inventories, original free-text decisions and rationales, source receipts, prompts, scripts, earlier drafts and corrections. It includes the historical tables and columns omitted from the convenient CSV projections. The archive preserves the original internal paths and bytes.
 
-After Cole grants access, clone that private repository and run `python validate_export.py` to check derivative hashes and coverage. Codex performed this check on a fresh remote clone at `18112b468f8306666045ff389e8e153712e65a84`; it passed all 43 projections and exact ID counts. The private repository contains a source-only OA locator, a blank human result template and access/rights instructions. GitHub read access permits inspection of authorized contents; it does not grant a database subscription or redistribution rights.
+| Asset | Size and verification |
+| --- | --- |
+| `workspace.zip` | 212,673,172 compressed bytes; 853,955,550 uncompressed bytes |
+| `file-manifest.csv` | 36,839 paths, byte sizes, original modification times and SHA-256 hashes; also [versioned in Git](../provenance/legacy-file-manifest.csv) |
+| `SHA256SUMS.txt` | SHA-256 values for the archive and manifest |
+| `RESTORE.md` | Standalone layout, verification and restoration instructions |
 
-Request access from Cole / @ajhcs with your GitHub username, intended task, needed IDs/material, affiliation if relevant to licensed access, and duration. Do not include restricted text in a public issue. Cole reviews permissions, grants named access at the least necessary level, records the grant in the private access log and reviews/removes it when the task ends. No new collaborator invitation is inferred from this project setup.
+Archive SHA-256: `31bb771230857c4eb4dd0a7d3d0fff8861d7fa996f3de9a02b36f746569396bb`.
 
-## Material still held locally
+From a public clone, run:
 
-Raw articles, RIS exports, bulk abstracts, free-text evidence/rationales, private conversations, the complete workspace ZIP and excerpt-bearing original Git bundle remain in Cole's local controlled archive. A private GitHub repository does not establish permission to transfer institutional/provider material to that service. The private rights queue identifies this unresolved scope. No claim is made that the full evidence archive is now shared online.
+```sh
+python scripts/verify_open_data.py
+python scripts/verify_open_data.py --archive /path/to/workspace.zip
+```
 
-Approved collaborators obtain owning sources through their own permitted access. If a specific item may be shared, Cole records its terms, permitted recipients and location before transfer. A GitHub release asset is available for a rights-cleared large package; GitHub documents a per-file limit below 2 GiB and access through repository permissions. The present metadata derivatives fit ordinary Git and require no alternative storage service. [GitHub release documentation](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases).
+The second command verifies every original file inside the ZIP without extracting it. Extract only into a separate empty directory; preserve internal paths. The archive contains original workstation paths in historical scripts and documentation. Modification times are preservation metadata, not reconstructed commit dates.
 
-## Recovery
+From the restored workspace, the inherited read-only structural check is:
 
-Verify the recorded archive checksum, then extract into a separate empty workspace, preserving internal paths. Do not overwrite the original. Same-machine restoration passed all 36,839 captured hashes and 22,601 inherited manifest paths. Fresh-environment or cross-machine reproduction of the original analysis remains unperformed.
+```sh
+python -X utf8 work/screening_qa/validate_resume_manifest.py
+```
 
-The inherited read-only validator runs from a restored original workspace. Copied historical analysis scripts depend on that layout. Do not start screening or the scientific watcher from this public code copy; screening remains paused.
+Same-machine restoration previously passed all 36,839 archive hashes and the 22,601-path inherited validator. Cross-machine reproduction of the original analysis remains unperformed. Copied historical scripts depend on the original layout. Some publication scripts and the watcher mutate research outputs; do not run those while screening is paused.
+
+## Reuse and provenance
+
+Cole / @ajhcs requested public sharing and confirmed on 15 November 2026 that the records, exports and bulk materials are OK to share. [The publication record](../provenance/open-data-publication.json) records that confirmation and the archive checks. This is owner clearance, not an independent license audit. Original project code is MIT; original project prose and decision metadata are CC BY 4.0. Third-party material retains its own source terms and notices; see [LICENSE.md](../LICENSE.md).
+
+The [archive check](../provenance/archive-publication-check-20261115.json) confirms all original hashes and records bounded credential checks. These checks do not establish scientific accuracy. INCLUDE is a provisional route to later full-text assessment; publication groups are not verified independent studies, and repeated historical rows are not new observations.
+
+The earlier private metadata companion is a historical collaboration copy; access to it is no longer required for the released data. Older records describing these datasets as local-only or restricted reflect the state before the 15 November clearance. Later administration/context packages and the original controlled Git bundle are outside the frozen research snapshot. Their [history map](../provenance/history-map.json) remains preserved; this release does not publish unrelated private context or rewrite original history.
+
+## Contribute
+
+Read [Join the project](../docs/join-the-project.md) and [CONTRIBUTING.md](../CONTRIBUTING.md). Anyone can inspect, download and fork the public record. Scientific assignments and write permissions are coordinated by Cole. Before source-review work, read [human verification](../docs/human-verification.md) and disclose any prior exposure to the public AI decisions.
