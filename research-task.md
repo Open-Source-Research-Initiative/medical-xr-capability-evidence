@@ -1,4 +1,6 @@
-# Task: publish the safe Medical XR repository under OSRI
+# Historical task: publish the safe Medical XR repository under OSRI
+
+**Historical record, 13 November 2026.** The publication task and access limits below describe the earlier import. The project is now registered as OSRI-0001; [PR #6](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/pull/6) merged the public data release on 15 November. Use [current data access](data/README.md), [review state](docs/review-state.md) and [contribution steps](CONTRIBUTING.md) for today's workflow. Earlier local-only and pending-publication statements are retained for chronology.
 
 **Human lead:** Cole / @ajhcs.
 

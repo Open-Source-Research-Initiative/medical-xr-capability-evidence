@@ -1,5 +1,7 @@
 # One source-to-decision trace
 
+**For prospective human source reviewers:** this page contains AI decisions. Use [the source-first procedure](../docs/human-verification.md) before reading the trace; disclose any prior exposure.
+
 P0000314 is an existing provisional route, reproduced here for inspection. It is not a newly screened record. [Matsangidou and colleagues' article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9957279/), DOI 10.3390/ijerph20042919, states CC BY 4.0. Methods 2.4, Apparatus, identifies the VIVE Pro Eye intervention headset; the laptop mirrors the display for an observer. The short attributed excerpt and source coordinates are in [the example record](P0000314.json).
 
 The saved Pass A and B assessments both advanced the report for full text, while their modality labels differed. Later configuration uncertainty was corrected through the already-saved source audit 0192. The record retains the legacy Astra base and Sol source-revision identities. **Human verification is still PENDING.** Headset identification supports a configuration route; it does not establish clinical benefit, sustainability or acceleration.

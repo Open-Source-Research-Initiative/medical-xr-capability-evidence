@@ -4,6 +4,8 @@ The project data is available publicly, without an invitation or private-reposit
 
 ## Browse the data
 
+New to the file layout? Start with the [data walkthrough](../docs/data-walkthrough.md) and [local setup](../docs/quickstart.md#explore-locally). The public lookup command reads one group's saved records without loading the large CSVs into a spreadsheet.
+
 The [open data directory](open/README.md) contains 43 CSV tables: all 18,976 frozen publication IDs, both complete initial decision passes, 9,226 adjudicated records, source memberships, review provenance, pending queues and audit metadata. The [catalog](open/catalog.csv) lists paths, row counts, sizes, hashes and original-source mappings. The [derivation manifest](open/derivation-manifest.json) specifies every retained and omitted column from 45 original inputs.
 
 Read IDs as strings and preserve leading zeros, unknown values and qualified dates. Use the [methods and dictionary](../methods/README.md) to interpret fields. `sources.csv` at the repository root indexes migration guidance; it is not the research inventory. The human-verification and feasibility templates remain blank.
@@ -14,10 +16,12 @@ Read IDs as strings and preserve leading zeros, unknown values and qualified dat
 
 | Asset | Size and verification |
 | --- | --- |
-| `workspace.zip` | 212,673,172 compressed bytes; 853,955,550 uncompressed bytes |
-| `file-manifest.csv` | 36,839 paths, byte sizes, original modification times and SHA-256 hashes; also [versioned in Git](../provenance/legacy-file-manifest.csv) |
-| `SHA256SUMS.txt` | SHA-256 values for the archive and manifest |
-| `RESTORE.md` | Standalone layout, verification and restoration instructions |
+| [workspace.zip](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/releases/download/evidence-2026-11-13/workspace.zip) | 212,673,172 compressed bytes; 853,955,550 uncompressed bytes |
+| [file-manifest.csv](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/releases/download/evidence-2026-11-13/file-manifest.csv) | 36,839 paths, byte sizes, original modification times and SHA-256 hashes; also [versioned in Git](../provenance/legacy-file-manifest.csv) |
+| [SHA256SUMS.txt](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/releases/download/evidence-2026-11-13/SHA256SUMS.txt) | SHA-256 values for the archive and manifest |
+| [RESTORE.md](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/releases/download/evidence-2026-11-13/RESTORE.md) | Standalone layout, verification and restoration instructions |
+
+Choose **`workspace.zip`** from the release assets for the full original evidence. GitHub's automatic **Source code (zip)** and **Source code (tar.gz)** downloads contain the Git repository snapshot and do not include that full evidence archive.
 
 Archive SHA-256: `31bb771230857c4eb4dd0a7d3d0fff8861d7fa996f3de9a02b36f746569396bb`.
 

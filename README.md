@@ -14,14 +14,18 @@ This question is locked. The work synthesizes published evidence and technology 
 
 ## Start here
 
+**New to the project?** Follow the [five-minute guide](docs/quickstart.md) for browser reading, local setup and your first contribution.
+
+**Planning a human source check?** Read [the source-first procedure](docs/human-verification.md) before opening AI examples or decision tables. Disclose any decisions already viewed.
+
 This is the research repository for **Medical XR: from capabilities to sustainable use**. The files below hold the research record. Use [Issues](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues) for tasks and [Pull requests](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/pulls) to propose changes. Browse other studies in the [OSRI research directory](https://github.com/Open-Source-Research-Initiative/osri/blob/main/projects/README.md).
 
-- **Assess the method:** read the [public method, addenda, codebook and dictionary](methods/README.md), including [search-history gaps](methods/search-provenance.md) and [proposed measures](methods/measurement-framework.md).
-- **Inspect one trace:** the [permissible source-to-decision example](examples/README.md) links an existing AI configuration route to an open-access apparatus passage. Run `python scripts/show_example.py` from a fresh clone; no packages or private files are required.
-- **Contribute a human check:** follow the [source verification procedure](docs/human-verification.md) and the [bounded source-check task](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/1). Prior AI exposure must be disclosed. The first example does not establish accuracy.
-- **Explore the data:** browse [43 open CSV tables](data/open/README.md) or [download the complete 36,839-file evidence archive](data/README.md#complete-evidence-archive), including original exports, source text, rationales and history. No private access request is required.
-- **Join the project:** read the [collaborator guide](docs/join-the-project.md), then offer help through [Issues](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/new/choose). Public reading and forking require no invitation.
-- **Reuse the record:** see [licenses](LICENSE.md), [data verification and restoration](data/README.md), and [public contribution checks](docs/publication-checks.md).
+| I want to… | Start with |
+| --- | --- |
+| Understand the question and method | [Methods and dictionary](methods/README.md), [search-history gaps](methods/search-provenance.md) and [current checkpoint](docs/checkpoint.md) |
+| Explore or reuse data | [Data walkthrough](docs/data-walkthrough.md), [43 CSV tables](data/open/README.md), [full evidence archive](data/README.md#complete-evidence-archive) and [licenses](LICENSE.md) |
+| Inspect an existing AI trace | [Worked example](examples/README.md); after local setup, run `python scripts/show_example.py` |
+| Offer help or propose a change | [Join the project](docs/join-the-project.md), [contribution steps](CONTRIBUTING.md) and [new issue](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/new/choose) |
 
 Human lead: **Cole / @ajhcs**. OSRI areas: Healthcare, Engineering, Informatics and Economics. Registered project ID: **[OSRI-0001](https://github.com/Open-Source-Research-Initiative/osri/blob/8631564e6b6604fdcc1f9b8a57595c2fd8b0f66b/projects/projects.csv)**. Human-driven Agentic-Powered-Research.
 

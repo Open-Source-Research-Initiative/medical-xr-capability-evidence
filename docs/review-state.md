@@ -1,5 +1,7 @@
 # Review and acceptance state
 
+**Current repository acceptance:** Cole approved [PR #6](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/pull/6) at `18932a46f9dafa363493c49fb1a6c629085822ee`; it merged as `fe29da139593a05cf760f67e48e98587299c6bae` on 15 November 2026. [Post-merge Linux/Windows checks passed](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/actions/runs/43748601307). Public data access is complete; scientific screening remains paused and human verification remains zero. Earlier review entries below retain their dated scope.
+
 **15 November data-access update:** Cole requested public sharing and confirmed that source records, exports and bulk materials are OK to share. The [open data release record](../provenance/open-data-publication.json) records that clearance. The full evidence snapshot and 43 convenient metadata tables are available through [data/README.md](../data/README.md). This does not establish independent rights review, scientific acceptance or human verification; the documented human-record count remains zero.
 
 The supplied review of public revision `8c92a767d1170feb37f7fd3162bcf652cab55e35` assessed partial OSRI alignment. It disclosed no bounded-pattern matches in the 89 reachable blobs it checked. Codex independently reproduced the checker defects. Those defects establish a control failure, not a finding that restricted material leaked.

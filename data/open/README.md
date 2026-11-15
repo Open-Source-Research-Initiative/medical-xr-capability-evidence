@@ -13,6 +13,8 @@ These 43 CSV tables expose the frozen project decision and provenance metadata w
 | [required-audit-status-current.csv](ledger-projections/required-audit-status-current.csv) | Required audit progress |
 | [human-verification-pending.csv](ledger-projections/human-verification-pending.csv) | Pending human verification; no completed human checks are claimed |
 
+GitHub cannot preview some of the largest CSVs. Use **Download raw file**, a repository download, or the [record lookup and walkthrough](../../docs/data-walkthrough.md). After [local setup](../../docs/quickstart.md#explore-locally), run `python scripts/lookup_publication.py P0000314` for one group, or add `--json` for its complete saved rows. Read the source-review exposure note in the walkthrough first if you plan a human check.
+
 The remaining tables retain audit, queue, identity, integrity, modality, task and exposure metadata. The [derivation manifest](derivation-manifest.json) maps all 45 original input tables, their hashes, row counts and included/omitted columns to the 43 projections. Two inputs have no fields in this projection. The manifest retains its original historical `controlled-derivatives/1` format name; these copies are now public and byte-identical to that earlier export.
 
 For complete source text, original rationales, historical versions and the two unprojected tables, use the [full evidence archive](../README.md#complete-evidence-archive). These convenient tables are projections, not replacements for the original record. Column meanings are in the [inherited dictionary](../../methods/inherited/data-dictionary.md); schema-only preservation records are in [schema-index.json](../schema-index.json).

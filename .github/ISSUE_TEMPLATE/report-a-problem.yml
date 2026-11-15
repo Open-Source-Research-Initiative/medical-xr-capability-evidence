@@ -1,0 +1,26 @@
+name: Report a documentation, data or tool problem
+description: Point out a confusing instruction, broken link, data question or reproducible tool error.
+title: "Problem: "
+body:
+  - type: markdown
+    attributes:
+      value: "Include a public file/link or publication ID. Do not post credentials or unrelated private material. Scientific screening is paused; reporting a possible issue does not change an original decision."
+  - type: textarea
+    id: location
+    attributes:
+      label: Where did you get stuck?
+      description: Link the page, file, command or publication ID.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect, and what happened?
+      description: Include the steps followed or exact error, with private information removed.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context, if relevant
+      description: Repository revision, Python version, operating system, or suggested clarification.
