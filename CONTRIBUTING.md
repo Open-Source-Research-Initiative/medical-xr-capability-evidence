@@ -1,6 +1,6 @@
 # Contributing
 
-Read the locked question and pause state first. This public repository preserves a provisional research record. Documentation fixes, public-tool improvements and methods feedback are welcome now. Further scientific screening needs Cole's instruction.
+Read the locked question and [dated resumed-run status](docs/active-screening.md) first. This public repository preserves a provisional research record. Cole authorized resumed AI adjudication on 15 November 2026; the earlier archive and CSV tables remain frozen. Documentation fixes, public-tool improvements and methods feedback are welcome. Cole coordinates scientific assignments and any further reviewer changes.
 
 ## Make a first contribution
 
@@ -21,6 +21,6 @@ Cole authorizes acceptance and publication within the task's scope. Original cod
 
 To offer help, follow [Join the project](docs/join-the-project.md). Anyone can read, download and fork the public repository; Cole coordinates scientific assignments and write permissions.
 
-For a human source-check proposal, follow the [source-first procedure](docs/human-verification.md) and [submission instructions](data/proposed-human-checks/README.md). Cole coordinates the bounded task. Save your own assessment before comparison, disclose prior AI exposure and never label agent work as human review. Submit a separate proposed result; keep the blank template, original ledgers and verification totals unchanged. Screening stays paused.
+For a human source-check proposal, follow the [source-first procedure](docs/human-verification.md) and [submission instructions](data/proposed-human-checks/README.md). Cole coordinates the bounded task. Save your own assessment before comparison, disclose prior AI exposure and never label agent work as human review. Submit a separate proposed result; keep the blank template, original ledgers and verification totals unchanged. Resumed AI screening does not establish human verification.
 
 For code or data-format changes, run the [public checks](docs/publication-checks.md). For a browser-only documentation edit, check the affected wording and links and state that local tests were not run; required CI still runs on the PR. Automated checks complement source and meaning review. Human acceptance must name the exact reviewed revision; no agent may record its own approval as Cole's review.

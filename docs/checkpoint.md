@@ -1,6 +1,6 @@
-# Saved scientific checkpoint
+# Frozen scientific checkpoint: 13 November 2026
 
-Scientific screening is **PAUSED_BY_HUMAN**, after B0182 and source audit 0216. Next is B0183, P0009119–P0009168, source-audit sequence 0217; source reading is unstarted. The six-case date audit is wholly unread. Do not restart the watcher or publication commands.
+This page describes the unchanged **13 November 2026** snapshot, saved **PAUSED_BY_HUMAN** after B0182 and source audit 0216. At that checkpoint B0183/source audit 0217 and the six-case date audit were unread. Cole subsequently authorized resumption; see the [15 November resumed-run checkpoint](active-screening.md). The old watcher remains stopped because it assumes the former adjudicator.
 
 | Record | Exact saved count |
 | --- | ---: |
@@ -25,4 +25,4 @@ Five gates remain: medical scope (318 pass IDs across 200 publications), date wi
 
 The archive was restored into another directory on the same Windows machine. All 36,839 captured hashes and 22,601 inherited manifest paths passed. Fresh-environment and cross-machine execution of the original analysis remain unperformed. Public example execution is a separate check.
 
-Full-text selection, report-family reconciliation, deeper extraction and human verification remain unfinished. This checkpoint is preserved during repository remediation; the screening goal is not complete.
+Full-text selection, report-family reconciliation, deeper extraction and human verification remain unfinished. This historical checkpoint and its data are preserved; they do not track later run progress. The screening goal is not complete.

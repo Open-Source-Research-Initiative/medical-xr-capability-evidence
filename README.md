@@ -10,7 +10,7 @@ The intended contribution is a traceable map connecting technologies, medical ta
 
 This question is locked. The work synthesizes published evidence and technology histories; it recruits no patients and delivers no care.
 
-**Status: provisional research; screening paused; no acceleration finding or documented human-verified records.** Both initial assessments cover all 18,976 provisional publication groups. Source adjudication is incomplete. [Exact checkpoint and pending queues](docs/checkpoint.md).
+**Status: provisional AI source adjudication resumed on 15 November 2026; no acceleration finding or documented human-verified records.** Both initial assessments cover all 18,976 provisional publication groups. The [dated resumed-run checkpoint](docs/active-screening.md) records 9,326 adjudications and 9,650 remaining. The [November 13 archive and tables](docs/checkpoint.md) remain frozen at their earlier checkpoint.
 
 ## Start here
 

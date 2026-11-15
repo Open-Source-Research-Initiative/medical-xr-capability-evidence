@@ -41,7 +41,7 @@ Within each original common batch, sort agreed-exclusion IDs by SHA256 of Medica
 
 ## Unfinished work
 
-There are 9,750 remaining adjudications, 9,464 unperformed required source-audit cases, 88 future legacy considerations and 418 post-initial note considerations.
+The frozen November 13 checkpoint has 9,750 remaining adjudications, 9,464 unperformed required source-audit cases, 88 future legacy considerations and 418 post-initial note considerations. Cole authorized a resumed run on 15 November; its [separate dated checkpoint](docs/active-screening.md) reports later progress and reviewer provenance. Method0.4.6/addenda01–04 and codebook0.2 remain operative. Proposed feasibility and human-validation designs have not become new eligibility rules.
 
 Five gates remain: final medical scope (318 pass IDs across 200 publications); date-window (136 pass IDs across 134 publications); integrity (115 pass IDs across 90 publications); final context-label/source accounting; and six earlier DATE routes. The six unread cases are P1705/P2173/P4111/P4337/P8362/P8632.
 
@@ -55,7 +55,7 @@ Restore the whole archive to a separate empty directory, keeping internal paths.
 
 This read-only command passed before migration: 22,601 hashed paths, zero errors, both initial passes complete. It checks structure and coverage, not scientific accuracy.
 
-Publication commands mutate canonical outputs. Do not run them or restart the watcher while paused. Copied scripts assume the original relative layout.
+Publication commands mutate canonical outputs. The old watcher remains stopped because it assumes the former reviewer. The active coordinator uses a separately versioned identity-aware integration path; copied historical scripts are not its current execution entry point. They assume the original relative layout.
 
 environment/current-toolchain.json records current observed versions. It does not reconstruct every historical environment. Restoration into a different directory on this Windows machine passed: all 36,839 files matched their hashes, and the inherited validator passed all 22,601 manifest paths. See provenance/restore-validation.json. Fresh-environment and cross-machine execution remain unperformed.
 

@@ -1,5 +1,11 @@
 # Import and proposed adoption
 
+## 15 November 2026: resumed scientific work
+
+After the public-data and collaborator-guide approvals, Cole asked to resume scientific screening from B0183/audit 0217 using OSRI-compatible improved methods. The former agent contexts were unavailable. Cole explicitly approved a new Sol adjudicator with documented provenance, then requested a persistent goal for all remaining screening and audits. The new actor is Adjudicator_Sol_resume_20261115, configured gpt-6.1-sol with runtime build unknown. Both completed initial passes and their owners remain preserved.
+
+The [dated resumption record](../docs/active-screening.md) and [structured checkpoint](../data/runs/2026-11-15/checkpoint.json) distinguish that work from the unchanged November 13 archive and tables. The inherited method/addenda and codebook remain operative. Human verification remains pending. This instruction supersedes the earlier pause for the authorized run; it does not approve scientific conclusions, replace other reviewers or waive exact-revision human acceptance for later public merges.
+
 ## 15 November 2026: public data instruction
 
 Cole requested that the OSRI project and project data be publicly accessible and organized for potential collaborators. Asked about source redistribution permissions, Cole confirmed: "Yes, the records, exports, bulks etc. is all OK". This clears the frozen research workspace for the documented public evidence release within this task. It is not an independent publisher/provider license audit or a new license assignment to third-party material.
