@@ -1,5 +1,9 @@
 # Credit and material assistance
 
+## New collaborator review, 15 November 2026
+
+Cole requested a review and fixes for project, data and contribution clarity. Codex reviewed the live public README, data pages, contribution issue and release navigation, then prepared targeted documentation edits, starter/data guides, a read-only publication lookup and contribution templates. The edit-with-purpose and write-with-purpose skills informed the edits and reader checks. This was a review by the current coordinator, not a fresh independent agent or scientific validation; no subagents were used. Original data, methods, code copies and pause state remain unchanged. Actual checks are reported in the pull request; no new human source result is claimed.
+
 ## Public data and collaborator access, 15 November 2026
 
 Cole requested public access to this OSRI project and its data, and confirmed that the records, exports and bulk materials are OK to share. Codex prepared the unchanged full evidence archive for a versioned release and copied the 43 existing metadata tables unchanged into the public research repository. The data catalog, verification script, archive checks, collaborator guide and issue template support access and reuse. The nature-data skill informed the inventory, source mapping and availability documentation. No subagents were used.

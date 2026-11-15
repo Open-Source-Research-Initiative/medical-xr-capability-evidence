@@ -4,7 +4,7 @@ title: "Collaboration: "
 body:
   - type: markdown
     attributes:
-      value: "Read the README, current pause state, and docs/join-the-project.md first. Public reading and forking require no invitation. Avoid personal contact details and credentials."
+      value: "Start with the [collaborator guide](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/blob/main/docs/join-the-project.md). Documentation, tooling and methods feedback are welcome; scientific screening is paused. Public reading and forking require no invitation. Avoid personal contact details and credentials."
   - type: textarea
     id: interests
     attributes:

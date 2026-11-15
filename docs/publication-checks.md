@@ -1,6 +1,6 @@
 # Checking a proposed public contribution
 
-Use a complete Git clone and Python 3.12 or later. From the public repository root:
+Use a complete Git clone and Python 3.12 or later; [local setup](quickstart.md#explore-locally) shows the commands. A Code → Download ZIP copy has no Git history and cannot run the public-history checker. For a browser-only documentation change, report the wording/links checked and let required PR CI run these checks. From the public repository root:
 
 ```
 python -m unittest discover -s tests -v
@@ -10,6 +10,7 @@ python -O scripts/verify_public_tree.py
 python scripts/verify_open_data.py
 python -O scripts/verify_open_data.py
 python scripts/show_example.py
+python scripts/lookup_publication.py P0000314
 ```
 
 Before committing, stage the intended files and run `python scripts/verify_public_tree.py --staged`. Selected-tree bytes must match working files. No original screening workspace is required. The 51 historical code copies are preserved by exact hashes; the independent example has its own command.
