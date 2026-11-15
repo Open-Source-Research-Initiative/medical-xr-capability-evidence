@@ -1,0 +1,6 @@
+publication_id,adjudication_artifact,source_revision_artifact,human_verification
+P0000629,outputs/Medical-XR-Calibration-and-Full-Screening/astra/B0013-adjudicated-v0.4.6-modality5.csv,outputs/Medical-XR-Calibration-and-Full-Screening/resume-20261112/adjudicator_sol/source-audit-0132-A2-legacy-chunks29-32-B0013-revision.json,PENDING
+P0002718,outputs/Medical-XR-Calibration-and-Full-Screening/resume-20261112/adjudicator_sol/B0054-adjudicated-resume-v0.4.6.csv,outputs/Medical-XR-Calibration-and-Full-Screening/resume-20261112/adjudicator_sol/source-audit-0137-earlier-post-initial-notes-B0054-revision.json,PENDING
+P0010208,,,PENDING
+P0016677,,,PENDING
+P0018885,outputs/Medical-XR-Calibration-and-Full-Screening/resume-20261112/adjudicator_sol/B0378-adjudicated-resume-v0.4.6.csv,outputs/Medical-XR-Calibration-and-Full-Screening/resume-20261112/adjudicator_sol/B0378-source-revision-01.json,PENDING

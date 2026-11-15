@@ -1,5 +1,11 @@
 # Credit and material assistance
 
+## Public data and collaborator access, 15 November 2026
+
+Cole requested public access to this OSRI project and its data, and confirmed that the records, exports and bulk materials are OK to share. Codex prepared the unchanged full evidence archive for a versioned release and copied the 43 existing metadata tables unchanged into the public research repository. The data catalog, verification script, archive checks, collaborator guide and issue template support access and reuse. The nature-data skill informed the inventory, source mapping and availability documentation. No subagents were used.
+
+Archive hashes were rechecked against all 36,839 preserved files, with bounded credential-pattern checks. Data integrity and automated tests are software checks, not independent rights review or scientific validation. Third-party notices remain applicable. No source assessment, human verification, scientific label, original method, worker assignment or pause state was changed.
+
 Cole / @ajhcs directs the locked question and authorized work. Earlier contributor, author and model credit remains in the inherited records. Import and publication do not change authorship.
 
 Legacy records retain actual identities, unknown model fields and exposure qualifications. New initial screening used eight fixed gpt-6.1-terra owners in two independent pools. Fresh source adjudication used gpt-6.1-sol. The coordinator managed preservation, validation and reports; its exact model build is not exposed.

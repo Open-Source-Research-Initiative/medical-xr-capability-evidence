@@ -1,5 +1,11 @@
 # Import and proposed adoption
 
+## 15 November 2026: public data instruction
+
+Cole requested that the OSRI project and project data be publicly accessible and organized for potential collaborators. Asked about source redistribution permissions, Cole confirmed: "Yes, the records, exports, bulks etc. is all OK". This clears the frozen research workspace for the documented public evidence release within this task. It is not an independent publisher/provider license audit or a new license assignment to third-party material.
+
+The release preserves the original archive SHA-256 and all 36,839 file hashes. Public Git gains the 43 unchanged metadata projections and their original derivation manifest. Later private administration/context packages and original controlled Git history are outside this snapshot. Scientific screening stays paused and human verification remains zero. Earlier access descriptions below retain their historical meaning and are superseded for the released data by provenance/open-data-publication.json.
+
 ## 13 November 2026: preservation
 
 Cole asked to save the paused work and review an OSRI move. The workspace had no Git repository. Existing file records, methods, receipts and correction order preserve its earlier chronology.

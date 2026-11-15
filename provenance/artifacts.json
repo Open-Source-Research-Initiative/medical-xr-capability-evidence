@@ -1,15 +1,15 @@
 {
   "artifact_access_contact": "Cole / @ajhcs",
-  "artifact_locations": "Controlled local record; confidential filesystem paths are not public metadata. Approved collaborator storage and persistent external locations are pending.",
+  "artifact_locations": "The frozen research workspace is publicly released following Cole's 2026-11-15 clearance. Original controlled Git history and later private administration/context packages remain local. Earlier access records are preserved chronologically.",
   "artifacts": [
     {
       "artifact_id": "medical-xr-paused-20261113T205254Z",
       "kind": "Complete original workspace archive",
       "files": 36839,
       "sha256": "31bb771230857c4eb4dd0a7d3d0fff8861d7fa996f3de9a02b36f746569396bb",
-      "public_download_url": null,
-      "access": "CONTROLLED_LOCAL_RETAINED",
-      "rights": "Contains third-party and source-extract material; access/use/redistribution review required."
+      "public_download_url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/releases/download/evidence-2026-11-13/workspace.zip",
+      "access": "PUBLIC_OWNER_CLEARED_2026_11_15",
+      "rights": "Public redistribution confirmed by Cole on 2026-11-15. Original project terms and third-party source notices remain applicable; see open-data-publication.json."
     },
     {
       "artifact_id": "medical-xr-original-draft-git-bundle-20261113",

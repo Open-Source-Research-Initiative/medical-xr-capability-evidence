@@ -6,11 +6,13 @@ Use a branch and make a bounded change. Link sources or result versions, report 
 
 Follow [OSRI-0.1.0](https://github.com/Open-Source-Research-Initiative/osri/blob/8c39a0a36c0e962060659b1d51f666c367f9464a/governance/contribution-standards.md). Keep editable sources and preserve original independent decisions. Repairs require ordered, source-attributed additions. Shared DOIs do not authorize merging. Never redraw the original audit sample.
 
-Do not upload articles, database exports, source packets, original evidence records, private conversations or controlled Git bundles. Metadata and checksum references provide provenance without publishing their contents. Access is coordinated by Cole under applicable terms.
+The [public data release](data/README.md) includes the frozen original records and source materials cleared by Cole on 15 November 2026. Use its catalog and manifest to reference those versions. New source uploads need their own recorded permissions and notices. Keep credentials, unrelated private conversations and controlled Git bundles outside public contributions. Access to the released record needs no invitation.
 
 Use scripts/verify_public_tree.py for the public record. Earlier local-package checks describe the controlled draft. Repository publication does not establish scientific validation, final inclusion or external peer review.
 
-Cole authorizes acceptance and publication within the task's scope. Original code is MIT and original prose is CC BY 4.0 under the 13 November 2026 instruction; respect [LICENSE.md](LICENSE.md), notices and third-party exclusions.
+Cole authorizes acceptance and publication within the task's scope. Original code is MIT; original prose and project decision metadata are CC BY 4.0 under the recorded instructions. Respect [LICENSE.md](LICENSE.md), notices and source-specific terms.
+
+To offer help, follow [Join the project](docs/join-the-project.md). Anyone can read, download and fork the public repository; Cole coordinates scientific assignments and write permissions.
 
 For a first bounded contribution, follow the [human source verification procedure](docs/human-verification.md). Save your own assessment before comparison, disclose prior AI exposure and never label agent work as human review. Do not post restricted evidence in an issue. Screening stays paused.
 

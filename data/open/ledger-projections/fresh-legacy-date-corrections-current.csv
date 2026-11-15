@@ -1,0 +1,3 @@
+model,publication_id,date_check_status,journal_first_publication_date,date_boundary_status,reviewer,pass_id,human_verification,date_precision
+gpt-6.1-terra,P0001798,CHECKED_INDEXED_PRIMARY,2020-10-13,ON_OR_AFTER_2020-06-01,Terra_A1_resume_date_source,A,PENDING,
+gpt-6.1-terra,P0002667,CHECKED_UNRESOLVED,UNVERIFIED,UNRESOLVED_FIRST_JOURNAL_PUBLICATION,Terra_A2_resume_date_source,A,PENDING,Frozen issue and author-profile listing identify November 2020 only; no verified day or earliest publication.
