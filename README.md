@@ -14,9 +14,11 @@ This question is locked. The work synthesizes published evidence and technology 
 
 ## Start here
 
+This is the research repository for **Medical XR: from capabilities to sustainable use**. The files below hold the research record. Use [Issues](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues) for tasks and [Pull requests](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/pulls) to propose changes. Browse other studies in the [OSRI research directory](https://github.com/Open-Source-Research-Initiative/osri/blob/main/projects/README.md).
+
 - **Assess the method:** read the [public method, addenda, codebook and dictionary](methods/README.md), including [search-history gaps](methods/search-provenance.md) and [proposed measures](methods/measurement-framework.md).
 - **Inspect one trace:** the [permissible source-to-decision example](examples/README.md) links an existing AI configuration route to an open-access apparatus passage. Run `python scripts/show_example.py` from a fresh clone; no packages or private files are required.
-- **Contribute a human check:** follow the [source verification procedure](docs/human-verification.md) and the [bounded source-check task](https://github.com/Open-Source-Research-Initiative/medical-xr-capability-evidence/issues/1). Prior AI exposure must be disclosed. The first example does not establish accuracy.
+- **Contribute a human check:** follow the [source verification procedure](docs/human-verification.md) and the [bounded source-check task](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/1). Prior AI exposure must be disclosed. The first example does not establish accuracy.
 - **Use the record:** see [licenses](LICENSE.md), [controlled access and restoration](data/README.md), and [public contribution checks](docs/publication-checks.md).
 
 Human lead: **Cole / @ajhcs**. OSRI areas: Healthcare, Engineering, Informatics and Economics. Registered project ID: **[OSRI-0001](https://github.com/Open-Source-Research-Initiative/osri/blob/8631564e6b6604fdcc1f9b8a57595c2fd8b0f66b/projects/projects.csv)**. Human-driven Agentic-Powered-Research.
