@@ -85,4 +85,4 @@ Adoption-barrier synthesis alone is not a demonstrated novelty claim. The suppli
 
 The public result should lead with the worked evidence and its limits. Screening totals, hash checks, repository registration and model agreement remain process evidence. They cannot substitute for the result.
 
-Prepared by Codex with MedSci design-study guidance; no new human reviews or scientific labels were produced. Screening remains paused and documented human verification remains zero.
+Prepared by Codex with MedSci design-study guidance; no new human reviews or scientific labels were produced. This feasibility plan remains a proposal outside the authorized screening work. See the [17 November issue-driven screening status](active-screening.md) for the current run; documented human verification remains zero.

@@ -10,19 +10,19 @@ The intended contribution is a traceable map connecting technologies, medical ta
 
 This question is locked. The work synthesizes published evidence and technology histories; it recruits no patients and delivers no care.
 
-**Status: provisional AI source adjudication resumed on 15 November 2026; no acceleration finding or documented human-verified records.** Both initial assessments cover all 18,976 provisional publication groups. The [dated resumed-run checkpoint](docs/active-screening.md) records 9,326 adjudications and 9,650 remaining. The [November 13 archive and tables](docs/checkpoint.md) remain frozen at their earlier checkpoint.
+**Status: issue-driven provisional model screening; final PI review follows all model work.** Both original passes cover all 18,976 publication groups. The [17 November work map](data/runs/2026-11-17/README.md) records 11,076 integrated adjudications and 7,900 pending IDs in 35 contributor packages. [Choose an issue](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/9) and read the [model-to-PI workflow](docs/screening-workflow.md). No acceleration finding or human-verified records are claimed. The [November13 archive and tables](docs/checkpoint.md) remain frozen.
 
 ## Start here
 
 **New to the project?** Follow the [five-minute guide](docs/quickstart.md) for browser reading, local setup and your first contribution.
 
-**Planning a human source check?** Read [the source-first procedure](docs/human-verification.md) before opening AI examples or decision tables. Disclose any decisions already viewed.
+**Contributing to screening?** Claim a bounded [work package](data/runs/2026-11-17/README.md). Required human scientific review is at final PI sign-off; voluntary source-first checks follow the [human procedure](docs/human-verification.md) and must disclose any AI exposure.
 
 This is the research repository for **Medical XR: from capabilities to sustainable use**. The files below hold the research record. Use [Issues](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues) for tasks and [Pull requests](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/pulls) to propose changes. Browse other studies in the [OSRI research directory](https://github.com/Open-Source-Research-Initiative/osri/blob/main/projects/README.md).
 
 | I want to… | Start with |
 | --- | --- |
-| Understand the question and method | [Methods and dictionary](methods/README.md), [search-history gaps](methods/search-provenance.md) and [current checkpoint](docs/checkpoint.md) |
+| Understand the question and method | [Methods and dictionary](methods/README.md), [search-history gaps](methods/search-provenance.md) and [current screening status](docs/active-screening.md) |
 | Explore or reuse data | [Data walkthrough](docs/data-walkthrough.md), [43 CSV tables](data/open/README.md), [full evidence archive](data/README.md#complete-evidence-archive) and [licenses](LICENSE.md) |
 | Inspect an existing AI trace | [Worked example](examples/README.md); after local setup, run `python scripts/show_example.py` |
 | Offer help or propose a change | [Join the project](docs/join-the-project.md), [contribution steps](CONTRIBUTING.md) and [new issue](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/new/choose) |

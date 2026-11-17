@@ -1,0 +1,20 @@
+{
+  "format": "medical-xr-provisional-model-checkpoint/1",
+  "as_of": "2026-11-17",
+  "execution": "ISSUE_DRIVEN_MODEL_WORK_AUTHORIZED",
+  "canonical_manifest_sha256": "bdbd5bd5364d2e7df2a13e8d54728aa696f93a953bb1c0407cbc0770e4738a00",
+  "validated_hash_references": 25136,
+  "counts": {
+    "inventory_n": 18976,
+    "adjudicated_n": 11076,
+    "adjudication_pending": 7900,
+    "required_audits_unperformed": 7644,
+    "self_detected_rechecks_pending": 334,
+    "mandatory_operational_audits_pending": 5,
+    "human_verified": 0,
+    "goal_complete": false
+  },
+  "PI_signoff": "NOT_STARTED",
+  "data_scope": "Exact work-scope index and checkpoint summary. November13 data/release unchanged. This is not the complete resumed source/result archive.",
+  "source_rule": "All five paired-input members per batch match the frozen public original-file manifest."
+}

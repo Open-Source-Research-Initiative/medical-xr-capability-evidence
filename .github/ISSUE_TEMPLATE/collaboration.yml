@@ -4,7 +4,7 @@ title: "Collaboration: "
 body:
   - type: markdown
     attributes:
-      value: "Start with the [collaborator guide](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/blob/main/docs/join-the-project.md). Documentation, tooling and methods feedback are welcome; scientific screening is paused. Public reading and forking require no invitation. Avoid personal contact details and credentials."
+      value: "Start with the [collaborator guide](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/blob/main/docs/join-the-project.md) and [screening tracker #9](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/9). Claim a bounded screening or audit task in its existing issue to avoid duplicates. Required PI review follows completed model work and the final packet. Public reading and forking require no invitation. Avoid personal contact details and credentials."
   - type: textarea
     id: interests
     attributes:
@@ -16,7 +16,7 @@ body:
     id: task
     attributes:
       label: Proposed task and availability
-      description: Suggest a bounded task or ask Cole to help identify one. Scientific screening is paused.
+      description: Link an existing work-package issue and exact batch/IDs, or suggest a documentation, tooling, methods or source-provenance task. Coordinate the claim before beginning overlapping work.
     validations:
       required: true
   - type: textarea

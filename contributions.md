@@ -1,5 +1,11 @@
 # Credit and material assistance
 
+## Issue-driven screening and final PI workflow, 17 November 2026
+
+Cole requested contributor-facing GitHub issues for remaining screening, work through those issues, and required human review only after all models finish and produce a final PI packet. Codex prepared the exact pending-ID/batch map, issue directory, frozen-input packet utility and workflow documentation. A delegated Codex documentation agent updated contributor navigation, dated status, review chronology, publication instructions and the collaboration issue form. These are software/documentation contributions, not new scientific assessments or human review; the exact coordinator and documentation-agent runtime builds are not exposed. Actual tests and model review are recorded with the implementation.
+
+The workflow preserves the original methods, assessments, samples and identities and records its project-specific OSRI review-timing difference. New handoffs use actual distinct identities; an unavailable former context is not impersonated. Checked provisional integration does not imply Cole reviewed each result. Required PI sign-off remains pending on the final exact packet, and no record becomes human-verified without actual attributable human source work. The former persistent goal was cleared; current authority is bounded issue work. The November 13 evidence archive and public tables remain frozen.
+
 ## Scientific resumption, 15 November 2026
 
 Cole authorized continued screening, a new Sol actor with documented provenance and a persistent goal for the remaining screening and prescribed audits. The new actor Adjudicator_Sol_resume_20261115, configured gpt-6.1-sol with runtime build unknown, reads full assigned frozen source records and both complete original pass records. It saves provisional decisions, literal source support, actual retrieval extents and unresolved limitations in new immutable artifacts. It does not claim continuity with the former actor or human review. Original owners, labels, samples and source memberships remain unchanged.
