@@ -1,15 +1,15 @@
 ## What changes and why?
 
-Describe the problem and resulting behavior or documentation. Link the issue or source when relevant.
+Link the claimed issue/work package and describe the resulting behavior or source work.
 
-## What did you check?
+## Evidence and checks
 
-List checks actually performed and their results. For browser-only documentation changes, describe the links/text checked and state that local tests were not run; required CI still applies.
+Identify exact IDs, source/input/result versions, actual source reading and access limits. List checks actually performed, their performer and results. Preserve originals, sample IDs, memberships and correction order. Report staged versus integrated work separately.
 
-## Data or research impact
+## Model assistance and review
 
-If relevant, identify affected IDs, data/method versions, provenance and source terms. Preserve original records and the pause state. Proposed human source checks go in separate files; they do not update canonical decisions or verification totals automatically.
+Name actual contributors/models/versions and exposure. Link the model/technical review and retained disagreements. Do not call model work human verification.
 
-## Assistance and review
+## Stage and PI status
 
-Identify material agent assistance, your own work and human review still needed. A model response is not a human source-check attestation.
+For provisional model work, state **model-complete/PI-pending** or the actual incomplete status. Required CI and applicable model checks still apply; routine provisional integration does not require early PI review under the17November workflow. Only the actual PI can sign off the final immutable packet after all model work. This PR does not imply that sign-off.

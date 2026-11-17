@@ -1,6 +1,6 @@
 # Contributing
 
-Read the locked question and [dated resumed-run status](docs/active-screening.md) first. This public repository preserves a provisional research record. Cole authorized resumed AI adjudication on 15 November 2026; the earlier archive and CSV tables remain frozen. Documentation fixes, public-tool improvements and methods feedback are welcome. Cole coordinates scientific assignments and any further reviewer changes.
+Read the locked question, [issue-driven workflow](docs/screening-workflow.md), [work map](data/runs/2026-11-17/README.md) and [dated resumed-run status](docs/active-screening.md) first. This public repository preserves a provisional research record. Cole authorized resumed AI adjudication on 15 November 2026; the earlier archive and CSV tables remain frozen. Documentation fixes, public-tool improvements and methods feedback are welcome. Cole coordinates scientific assignments and any further reviewer changes.
 
 ## Make a first contribution
 
@@ -8,7 +8,7 @@ Read the locked question and [dated resumed-run status](docs/active-screening.md
 2. For a small documentation fix, use GitHub's edit button on the file. GitHub can create a fork and branch for your proposed change. For local work, fork the project, clone your fork and create a branch; [setup instructions](docs/quickstart.md#explore-locally) explain the tools.
 3. Make a bounded change and open a pull request from your branch to this repository's `main`. Link the issue or relevant source/result version.
 4. Report checks actually performed, their results and performer, material agent assistance and human review still needed. The PR template prompts for these details.
-5. Respond to review. Required CI must pass. Cole records acceptance of the exact revision before merge; proposing a change does not require organization membership or direct write access.
+5. Respond to the applicable model/technical review and pass required CI. Within the [17 November workflow](docs/screening-workflow.md), checked provisional work may be integrated under Cole’s standing instruction without per-batch human review. Final PI review/sign-off follows the completed model packet. Proposing a change needs no organization membership or direct write access.
 
 
 Follow [OSRI-0.1.0](https://github.com/Open-Source-Research-Initiative/osri/blob/8c39a0a36c0e962060659b1d51f666c367f9464a/governance/contribution-standards.md). Keep editable sources and preserve original independent decisions. Repairs require ordered, source-attributed additions. Shared DOIs do not authorize merging. Never redraw the original audit sample.
@@ -23,4 +23,4 @@ To offer help, follow [Join the project](docs/join-the-project.md). Anyone can r
 
 For a human source-check proposal, follow the [source-first procedure](docs/human-verification.md) and [submission instructions](data/proposed-human-checks/README.md). Cole coordinates the bounded task. Save your own assessment before comparison, disclose prior AI exposure and never label agent work as human review. Submit a separate proposed result; keep the blank template, original ledgers and verification totals unchanged. Resumed AI screening does not establish human verification.
 
-For code or data-format changes, run the [public checks](docs/publication-checks.md). For a browser-only documentation edit, check the affected wording and links and state that local tests were not run; required CI still runs on the PR. Automated checks complement source and meaning review. Human acceptance must name the exact reviewed revision; no agent may record its own approval as Cole's review.
+For code or data-format changes, run the [public checks](docs/publication-checks.md). For a browser-only documentation edit, check the affected wording and links and state that local tests were not run; required CI still runs on the PR. Automated checks complement source and meaning review. Final PI acceptance must name the exact reviewed packet/revision. Model-stage integration is provisional; no agent may record it as Cole’s scientific review or sign-off.

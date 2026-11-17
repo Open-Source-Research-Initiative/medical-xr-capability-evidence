@@ -1,0 +1,302 @@
+{
+  "format": "medical-xr-issue-index/1",
+  "created_on": "2026-11-17",
+  "tracker": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/9",
+  "issues": [
+    {
+      "key": "TRACKER",
+      "number": 9,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/9",
+      "title": "[Tracker] Complete model screening and prepare final PI review"
+    },
+    {
+      "key": "WF-1",
+      "number": 10,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/10",
+      "title": "[Workflow] Adopt issue-based model work with final PI sign-off"
+    },
+    {
+      "key": "PACKETS-1",
+      "number": 11,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/11",
+      "title": "[Contributor packets] Publish exact remaining IDs and reproducible batch inputs"
+    },
+    {
+      "key": "INT-1",
+      "number": 12,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/12",
+      "title": "[Integration] Accept staged model artifacts with actual authorship and ordered corrections"
+    },
+    {
+      "key": "ASTRA-1",
+      "number": 13,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/13",
+      "title": "[Model review] Complete conditional Astra referrals after Sol uncertainty"
+    },
+    {
+      "key": "DATES-1",
+      "number": 14,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/14",
+      "title": "[Date checks] Complete independent source-date findings and Sol consideration"
+    },
+    {
+      "key": "AUDIT-MED",
+      "number": 15,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/15",
+      "title": "[Final audit] Reconcile medical-task scope across318 pass IDs /200 groups"
+    },
+    {
+      "key": "AUDIT-DATE",
+      "number": 16,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/16",
+      "title": "[Final audit] Reconcile the136 pass-ID /134-group date-window scope"
+    },
+    {
+      "key": "AUDIT-INTEGRITY",
+      "number": 17,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/17",
+      "title": "[Final audit] Verify integrity notices, assigned reports and synthesis holds"
+    },
+    {
+      "key": "AUDIT-CONTEXT",
+      "number": 18,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/18",
+      "title": "[Final audit] Reconcile context labels and source accounting"
+    },
+    {
+      "key": "AUDIT-YEAR",
+      "number": 19,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/19",
+      "title": "[Final audit] Finish source-discovered first-publication-year reconciliation"
+    },
+    {
+      "key": "REPRO-1",
+      "number": 20,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/20",
+      "title": "[Reproducibility] Package the resumed model run and restore it independently"
+    },
+    {
+      "key": "PACKET-1",
+      "number": 21,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/21",
+      "title": "[Final packet] Assemble the complete model result for PI review"
+    },
+    {
+      "key": "PI-1",
+      "number": 22,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/22",
+      "title": "[PI review] Review and sign off the exact final screening packet"
+    },
+    {
+      "key": "S01-01",
+      "number": 23,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/23",
+      "title": "[Screening S01-01] B0215\u2013B0219 source adjudication and audits"
+    },
+    {
+      "key": "S01-02",
+      "number": 24,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/24",
+      "title": "[Screening S01-02] B0220\u2013B0224 source adjudication and audits"
+    },
+    {
+      "key": "S01-03",
+      "number": 25,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/25",
+      "title": "[Screening S01-03] B0225\u2013B0229 source adjudication and audits"
+    },
+    {
+      "key": "S01-04",
+      "number": 26,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/26",
+      "title": "[Screening S01-04] B0230\u2013B0234 source adjudication and audits"
+    },
+    {
+      "key": "S01-05",
+      "number": 27,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/27",
+      "title": "[Screening S01-05] B0235\u2013B0239 source adjudication and audits"
+    },
+    {
+      "key": "S01-06",
+      "number": 28,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/28",
+      "title": "[Screening S01-06] B0240\u2013B0240 source adjudication and audits"
+    },
+    {
+      "key": "S02-01",
+      "number": 29,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/29",
+      "title": "[Screening S02-01] B0246\u2013B0250 source adjudication and audits"
+    },
+    {
+      "key": "S02-02",
+      "number": 30,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/30",
+      "title": "[Screening S02-02] B0251\u2013B0255 source adjudication and audits"
+    },
+    {
+      "key": "S02-03",
+      "number": 31,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/31",
+      "title": "[Screening S02-03] B0256\u2013B0260 source adjudication and audits"
+    },
+    {
+      "key": "S02-04",
+      "number": 32,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/32",
+      "title": "[Screening S02-04] B0261\u2013B0265 source adjudication and audits"
+    },
+    {
+      "key": "S02-05",
+      "number": 33,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/33",
+      "title": "[Screening S02-05] B0266\u2013B0268 source adjudication and audits"
+    },
+    {
+      "key": "S03-01",
+      "number": 34,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/34",
+      "title": "[Screening S03-01] B0269\u2013B0273 source adjudication and audits"
+    },
+    {
+      "key": "S03-02",
+      "number": 35,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/35",
+      "title": "[Screening S03-02] B0274\u2013B0278 source adjudication and audits"
+    },
+    {
+      "key": "S03-03",
+      "number": 36,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/36",
+      "title": "[Screening S03-03] B0279\u2013B0283 source adjudication and audits"
+    },
+    {
+      "key": "S03-04",
+      "number": 37,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/37",
+      "title": "[Screening S03-04] B0284\u2013B0288 source adjudication and audits"
+    },
+    {
+      "key": "S03-05",
+      "number": 38,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/38",
+      "title": "[Screening S03-05] B0289\u2013B0293 source adjudication and audits"
+    },
+    {
+      "key": "S03-06",
+      "number": 39,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/39",
+      "title": "[Screening S03-06] B0294\u2013B0296 source adjudication and audits"
+    },
+    {
+      "key": "S04-01",
+      "number": 40,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/40",
+      "title": "[Screening S04-01] B0297\u2013B0301 source adjudication and audits"
+    },
+    {
+      "key": "S04-02",
+      "number": 41,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/41",
+      "title": "[Screening S04-02] B0302\u2013B0306 source adjudication and audits"
+    },
+    {
+      "key": "S04-03",
+      "number": 42,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/42",
+      "title": "[Screening S04-03] B0307\u2013B0311 source adjudication and audits"
+    },
+    {
+      "key": "S04-04",
+      "number": 43,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/43",
+      "title": "[Screening S04-04] B0312\u2013B0316 source adjudication and audits"
+    },
+    {
+      "key": "S04-05",
+      "number": 44,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/44",
+      "title": "[Screening S04-05] B0317\u2013B0321 source adjudication and audits"
+    },
+    {
+      "key": "S04-06",
+      "number": 45,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/45",
+      "title": "[Screening S04-06] B0322\u2013B0324 source adjudication and audits"
+    },
+    {
+      "key": "S05-01",
+      "number": 46,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/46",
+      "title": "[Screening S05-01] B0325\u2013B0329 source adjudication and audits"
+    },
+    {
+      "key": "S05-02",
+      "number": 47,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/47",
+      "title": "[Screening S05-02] B0330\u2013B0334 source adjudication and audits"
+    },
+    {
+      "key": "S05-03",
+      "number": 48,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/48",
+      "title": "[Screening S05-03] B0335\u2013B0339 source adjudication and audits"
+    },
+    {
+      "key": "S05-04",
+      "number": 49,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/49",
+      "title": "[Screening S05-04] B0340\u2013B0344 source adjudication and audits"
+    },
+    {
+      "key": "S05-05",
+      "number": 50,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/50",
+      "title": "[Screening S05-05] B0345\u2013B0349 source adjudication and audits"
+    },
+    {
+      "key": "S05-06",
+      "number": 51,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/51",
+      "title": "[Screening S05-06] B0350\u2013B0351 source adjudication and audits"
+    },
+    {
+      "key": "S06-01",
+      "number": 52,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/52",
+      "title": "[Screening S06-01] B0352\u2013B0356 source adjudication and audits"
+    },
+    {
+      "key": "S06-02",
+      "number": 53,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/53",
+      "title": "[Screening S06-02] B0357\u2013B0361 source adjudication and audits"
+    },
+    {
+      "key": "S06-03",
+      "number": 54,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/54",
+      "title": "[Screening S06-03] B0362\u2013B0366 source adjudication and audits"
+    },
+    {
+      "key": "S06-04",
+      "number": 55,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/55",
+      "title": "[Screening S06-04] B0367\u2013B0371 source adjudication and audits"
+    },
+    {
+      "key": "S06-05",
+      "number": 56,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/56",
+      "title": "[Screening S06-05] B0372\u2013B0376 source adjudication and audits"
+    },
+    {
+      "key": "S06-06",
+      "number": 57,
+      "url": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/57",
+      "title": "[Screening S06-06] B0377\u2013B0377 source adjudication and audits"
+    }
+  ],
+  "limit": "Creation index; GitHub issue pages carry live state."
+}

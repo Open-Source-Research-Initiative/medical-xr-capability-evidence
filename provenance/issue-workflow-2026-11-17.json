@@ -1,0 +1,14 @@
+{
+  "format": "medical-xr-issue-workflow-authorization/1",
+  "recorded_on": "2026-11-17",
+  "human_lead": "Cole / @ajhcs",
+  "instruction_paraphrase": "Split remaining screening into GitHub issues open to contributors, start tackling those issues, and require human review once all models have finished and produced a final packet for PI review/sign-off.",
+  "scope": "Prospective issue-driven provisional screening/model checks and routine provisional integration/public progress records; existing frozen scientific criteria and source-sharing terms unchanged.",
+  "review_timing": "All model work and final packet before required PI review. No per-batch human approval.",
+  "OSRI_baseline": "OSRI-0.1.0 at8c39a0a36c0e962060659b1d51f666c367f9464a",
+  "project_specific_difference": "Recorded prospective review timing/standing authorization for provisional model records relative to the baseline human acceptance/publication rule. The organization-wide standard is unchanged.",
+  "PI_signoff": "NOT_GIVEN",
+  "human_verified_records": 0,
+  "persistent_goal": "Earlier goal cleared; this instruction does not create a new persistent goal.",
+  "tracker": "https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/9"
+}

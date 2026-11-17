@@ -1,6 +1,6 @@
 # Frozen scientific checkpoint: 13 November 2026
 
-This page describes the unchanged **13 November 2026** snapshot, saved **PAUSED_BY_HUMAN** after B0182 and source audit 0216. At that checkpoint B0183/source audit 0217 and the six-case date audit were unread. Cole subsequently authorized resumption; see the [15 November resumed-run checkpoint](active-screening.md). The old watcher remains stopped because it assumes the former adjudicator.
+This page describes the unchanged **13 November 2026** snapshot, saved **PAUSED_BY_HUMAN** after B0182 and source audit 0216. At that checkpoint B0183/source audit 0217 and the six-case date audit were unread. Cole subsequently authorized resumption; see the [17 November issue-driven screening status](active-screening.md). The old watcher remains stopped because it assumes the former adjudicator.
 
 | Record | Exact saved count |
 | --- | ---: |

@@ -1,0 +1,82 @@
+{
+  "format": "medical-xr-issue-assignments/1",
+  "recorded_on": "2026-11-17",
+  "authority": "Cole’s instruction to start issue-driven screening with final PI review after models.",
+  "canonical_baseline_sha256": "bdbd5bd5364d2e7df2a13e8d54728aa696f93a953bb1c0407cbc0770e4738a00",
+  "assignments": [
+    {
+      "issue_number": 23,
+      "batch_id": "B0215",
+      "actor": "Sol_issue23_20261117",
+      "configured_model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "runtime_build": "unknown",
+      "stage": "exposed source adjudication candidate",
+      "status": "issue-assigned; canonical registration pending",
+      "human_verification": "PENDING",
+      "handoff": "New context; earlier actor unavailable. Preserve saved work/authorship; no inherited identity or reading credit."
+    },
+    {
+      "issue_number": 29,
+      "batch_id": "B0246",
+      "actor": "Sol_issue29_20261117",
+      "configured_model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "runtime_build": "unknown",
+      "stage": "exposed source adjudication candidate",
+      "status": "issue-assigned; canonical registration pending",
+      "human_verification": "PENDING",
+      "handoff": "New context; earlier actor unavailable. Preserve saved work/authorship; no inherited identity or reading credit."
+    },
+    {
+      "issue_number": 34,
+      "batch_id": "B0272",
+      "actor": "Sol_issue34_20261117",
+      "configured_model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "runtime_build": "unknown",
+      "stage": "exposed source adjudication candidate",
+      "status": "issue-assigned; canonical registration pending",
+      "human_verification": "PENDING",
+      "handoff": "New context; earlier actor unavailable. Preserve saved work/authorship; no inherited identity or reading credit."
+    },
+    {
+      "issue_number": 40,
+      "batch_id": "B0301",
+      "actor": "Sol_issue40_20261117",
+      "configured_model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "runtime_build": "unknown",
+      "stage": "exposed source adjudication candidate",
+      "status": "issue-assigned; canonical registration pending",
+      "human_verification": "PENDING",
+      "handoff": "New context; earlier actor unavailable. Preserve saved work/authorship; no inherited identity or reading credit."
+    },
+    {
+      "issue_number": 47,
+      "batch_id": "B0330",
+      "actor": "Sol_issue47_20261117",
+      "configured_model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "runtime_build": "unknown",
+      "stage": "exposed source adjudication candidate",
+      "status": "issue-assigned; canonical registration pending",
+      "human_verification": "PENDING",
+      "handoff": "New context; earlier actor unavailable. Preserve saved work/authorship; no inherited identity or reading credit."
+    },
+    {
+      "issue_number": 52,
+      "batch_id": "B0355",
+      "actor": "Sol_issue52_20261117",
+      "configured_model": "gpt-6.1-sol",
+      "reasoning_effort": "high",
+      "runtime_build": "unknown",
+      "stage": "exposed source adjudication candidate",
+      "status": "issue-assigned; canonical registration pending",
+      "human_verification": "PENDING",
+      "handoff": "New context; earlier actor unavailable. Preserve saved work/authorship; no inherited identity or reading credit."
+    }
+  ],
+  "PI_signoff": "NOT_GIVEN",
+  "limits": "Assignment/handoff only, not completed reading, canonical registration or scientific validation. Original identities/unknown models preserved."
+}

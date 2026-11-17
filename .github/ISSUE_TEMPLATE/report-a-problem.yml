@@ -4,7 +4,7 @@ title: "Problem: "
 body:
   - type: markdown
     attributes:
-      value: "Include a public file/link or publication ID. Do not post credentials or unrelated private material. Scientific screening is paused; reporting a possible issue does not change an original decision."
+      value: "Include a public file/link or publication ID. Do not post credentials or unrelated private material. Screening proceeds through [tracker #9](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/9); reporting a possible issue does not change an original decision. Required PI review follows completed model work and the final packet."
   - type: textarea
     id: location
     attributes:
