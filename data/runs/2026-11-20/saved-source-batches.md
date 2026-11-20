@@ -5,3 +5,5 @@ The provisional checkpoint adds 15 saved Sol batches, with 750 publication group
 The [routing and receipt index](saved-source-batches.json) binds the exact IDs, audit coverage, authors and checkpoint digests. Original batch and sample membership is in the [frozen work plan](../2026-11-17/work-plan.json). Detailed source captures remain in the controlled workspace.
 
 The ordered replay preserves actual authors, the direct B0352 metadata overlay after 60001, and B0353 receipt 60003 after 60002. Later corrections retain their own attribution and evidence limits. Human verification and [PI sign-off](https://github.com/Open-Source-Research-Initiative/medical-xr-from-capabilities-to-sustainable-use/issues/22) remain pending.
+
+The [conditional source-review checkpoint](conditional-source-review.json) records 195 integrated Astra cases. The coordinator applied 35 provisional route changes and retained 160 Sol routes. The underlying 12,326 adjudications and prior identity-note attribution were preserved. Human verification and PI sign-off are pending.
